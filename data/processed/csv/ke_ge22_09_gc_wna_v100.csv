@@ -1,0 +1,360 @@
+﻿County Code,County Name,Candidate Surname,Candidate Other Names,Party Code,Political Party Name,Abbreviation,Abbreviation Enhanced,Party Code Enhanced
+1,Mombasa,Abdalla,Amina,27,Jubilee Party,JP,JP,27
+1,Mombasa,Barayan,Fatma Bakari Omar,15,United Democratic Alliance,UDA,UDA,15
+1,Mombasa,Kighala,Phenny  Mwangura,88,Tujibebe Wakenya Party,JIBEBE,JIBEBE,88
+1,Mombasa,Koske,Esther Cheptanui,12,Wiper Democratic Movement- Kenya,WDM,WDM,12
+1,Mombasa,Mohamed,Zamzam  Chimba,21,Orange Democratic Movement,ODM,ODM,21
+1,Mombasa,Mohdhar,Lubna Nassir,Ind,Independent,IND,IND_WMNA1_01,IND_WMNA1_01
+1,Mombasa,Obura,Zipporah Tabu,Ind,Independent,IND,IND_WMNA1_02,IND_WMNA1_02
+1,Mombasa,Odero,Ednah Mildred Amimo,46,United Party Of Independent Alliance,UPIA,UPIA,46
+1,Mombasa,Omar,Zainab Abdallah,80,Usawa Kwa Wote Party,USAWA,USAWA,80
+1,Mombasa,Rama,Afiya Mkuwewa,62,Amani National Congress,ANC,ANC,62
+1,Mombasa,Waweru,Elizabeth Muthoni,90,Umoja Summit Party,USP,USP,90
+1,Mombasa,Zaja,Hamisa Maalim,79,United Green Movement,UGM,UGM,79
+2,Kwale,Chitsangi,Zainab  Athuman Matano,Ind,Independent,IND,IND_WMNA2_01,IND_WMNA2_01
+2,Kwale,Masha,Bibi Salim,15,United Democratic Alliance,UDA,UDA,15
+2,Kwale,Masito,Fatuma Hamisi,21,Orange Democratic Movement,ODM,ODM,21
+2,Kwale,Mwanasaid,Ntembe Makoti,62,Amani National Congress,ANC,ANC,62
+2,Kwale,Mwasina,Nimusimu Iddi,85,Democratic Action Party-Kenya,DAP-K,DAP-K,85
+2,Kwale,Shee,Husna Mwalimu,41,United Democratic Movement,UDM,UDM,41
+3,Kilifi,Baya,Juliet Riziki,15,United Democratic Alliance,UDA,UDA,15
+3,Kilifi,Fondo,Christine Zawadi Gona,91,Pamoja African Alliance,PAA,PAA,91
+3,Kilifi,Kombe,Mary Luvuno,Ind,Independent,IND,IND_WMNA3_01,IND_WMNA3_01
+3,Kilifi,Mwanyanje,Gertrude Mbeyu,21,Orange Democratic Movement,ODM,ODM,21
+3,Kilifi,Ochieng,Maureen Atieno,Ind,Independent,IND,IND_WMNA3_02,IND_WMNA3_02
+3,Kilifi,Wesa,Ephie Chari,30,Kenya African Democratic Union-Asili,KADU-ASILI,KADU-ASILI,30
+4,Tana River,Abdullahi,Amina Dika,33,Kenya African National Union,KANU,KANU,33
+4,Tana River,Abio,Alfelt Mumbo,23,Forum For Restoration Of Democracy-Kenya,FORD-KENYA,FORD-KENYA,23
+4,Tana River,Buyotu,Nyathan Ralia,40,The New Democrats,TND,TND,40
+4,Tana River,Duri,Halima Ware,82,The Service Party,TSP,TSP,82
+4,Tana River,Hadida,Melisa Nkondo,21,Orange Democratic Movement,ODM,ODM,21
+4,Tana River,Hussein,Sadia Sango,15,United Democratic Alliance,UDA,UDA,15
+4,Tana River,Komora,Mwanahamisi Omar,34,Safina,SAFINA,SAFINA,34
+4,Tana River,Koro,Saddia Halima,41,United Democratic Movement,UDM,UDM,41
+4,Tana River,Snad,Keiro Kadija,46,United Party Of Independent Alliance,UPIA,UPIA,46
+4,Tana River,Suleiman,Fatuma Hamaro,79,United Green Movement,UGM,UGM,79
+4,Tana River,Twalib,Medina Halako,27,Jubilee Party,JP,JP,27
+4,Tana River,Wama,Angelina Naemi,85,Democratic Action Party-Kenya,DAP-K,DAP-K,85
+4,Tana River,Zitah,Hariety Namwezi,62,Amani National Congress,ANC,ANC,62
+5,Lamu,Abdalla,Esha Nizar,21,Orange Democratic Movement,ODM,ODM,21
+5,Lamu,Abdalla,Mariyam Abubakar,91,Pamoja African Alliance,PAA,PAA,91
+5,Lamu,Loo,Amina Kale,62,Amani National Congress,ANC,ANC,62
+5,Lamu,Luwali,Loyce Dama,1,National Rainbow Coalition-Kenya,NARC-KENYA,NARC-KENYA,1
+5,Lamu,Marubu,Monicah Muthoni,Ind,Independent,IND,IND_WMNA5_01,IND_WMNA5_01
+5,Lamu,Mote,Nana Mohamed,27,Jubilee Party,JP,JP,27
+6,Taita Taveta,Chao,Linah Jemimah,91,Pamoja African Alliance,PAA,PAA,91
+6,Taita Taveta,Katua,Catherine Mueni,33,Kenya African National Union,KANU,KANU,33
+6,Taita Taveta,Kizidio,Prisca Mbingu Mwamboa,Ind,Independent,IND,IND_WMNA6_01,IND_WMNA6_01
+6,Taita Taveta,Lay,Joyce Wanjalah,27,Jubilee Party,JP,JP,27
+6,Taita Taveta,Mizighi,Lydia Haika Mnene,15,United Democratic Alliance,UDA,UDA,15
+6,Taita Taveta,Mlambo,Catherine Mashame,21,Orange Democratic Movement,ODM,ODM,21
+6,Taita Taveta,Mwanyumba,Esther Mkaiwawi,12,Wiper Democratic Movement- Kenya,WDM,WDM,12
+6,Taita Taveta,Shuwe,Getrude Nginai Nawoti,85,Democratic Action Party-Kenya,DAP-K,DAP-K,85
+7,Garissa,Ahmed,Katra Salat,46,United Party Of Independent Alliance,UPIA,UPIA,46
+7,Garissa,Buul,Khadija Ahmed,21,Orange Democratic Movement,ODM,ODM,21
+7,Garissa,Dubow,Honey Hussein,68,Democratic Congress,DC,DC,68
+7,Garissa,Gure,Shukran Hussein,12,Wiper Democratic Movement- Kenya,WDM,WDM,12
+7,Garissa,Mohamed,Amina Abdullahi,14,Party Of National Unity,PNU,PNU,14
+7,Garissa,Mohamed,Mulki Warsame,15,United Democratic Alliance,UDA,UDA,15
+7,Garissa,Olow,Asha Dekow,37,National Agenda Party Of Kenya,NAPK,NAPK,37
+7,Garissa,Siyad,Amina Udgoon,27,Jubilee Party,JP,JP,27
+8,Wajir,Abdikadir,Neema Sheikh,Ind,Independent,IND,IND_WMNA8_01,IND_WMNA8_01
+8,Wajir,Abdille,Anisa Rashid,12,Wiper Democratic Movement- Kenya,WDM,WDM,12
+8,Wajir,Ali,Fatuma Gedi,27,Jubilee Party,JP,JP,27
+8,Wajir,Amin,Farhiya Noor,85,Democratic Action Party-Kenya,DAP-K,DAP-K,85
+8,Wajir,Bulle,Barey Diis,64,United Democratic Party,UDP,UDP,64
+8,Wajir,Gabow,Meymuna Osman,15,United Democratic Alliance,UDA,UDA,15
+8,Wajir,Guhad,Suli Abdi,1,National Rainbow Coalition-Kenya,NARC-KENYA,NARC-KENYA,1
+8,Wajir,Ibrahim,Nasri Sahal,23,Forum For Restoration Of Democracy-Kenya,FORD-KENYA,FORD-KENYA,23
+8,Wajir,Jehow,Fatuma Abdi,21,Orange Democratic Movement,ODM,ODM,21
+8,Wajir,Kassim,Nasri Ibrahim,67,Maendeleo Chap Chap Party,MCCP,MCCP,67
+8,Wajir,Maalim,Farhiya Abdille,63,Devolution Party Of Kenya,DPK,DPK,63
+8,Wajir,Mohamed,Asha Hassan,62,Amani National Congress,ANC,ANC,62
+8,Wajir,Omar,Halima Ali,41,United Democratic Movement,UDM,UDM,41
+9,Mandera,Hassan,Amina Gedow,15,United Democratic Alliance,UDA,UDA,15
+9,Mandera,Hillow,Sahara Ahmed,85,Democratic Action Party-Kenya,DAP-K,DAP-K,85
+9,Mandera,Ibrahim,Ubah Abdi,21,Orange Democratic Movement,ODM,ODM,21
+9,Mandera,Mahabub,Fathia,27,Jubilee Party,JP,JP,27
+9,Mandera,Mohamed,Abdia Ibrahim,46,United Party Of Independent Alliance,UPIA,UPIA,46
+9,Mandera,Sheikh,Umul Ker Kassim,41,United Democratic Movement,UDM,UDM,41
+10,Marsabit,Abduba,Rose Tume,33,Kenya African National Union,KANU,KANU,33
+10,Marsabit,Ibrahim,Fatuma Nur,46,United Party Of Independent Alliance,UPIA,UPIA,46
+10,Marsabit,Ibren,Nasra Ibrahim,41,United Democratic Movement,UDM,UDM,41
+10,Marsabit,Mamo,Gethia Adan,27,Jubilee Party,JP,JP,27
+10,Marsabit,Rari,Fatuma Hawa,Ind,Independent,IND,IND_WMNA10_01,IND_WMNA10_01
+10,Marsabit,Umuro,Isako Dibo,62,Amani National Congress,ANC,ANC,62
+10,Marsabit,Waqo,Naomi Jillo,15,United Democratic Alliance,UDA,UDA,15
+11,Isiolo,Abdirahman,Nasibo Hawa,21,Orange Democratic Movement,ODM,ODM,21
+11,Isiolo,Bonaya,Mumina Gollo,27,Jubilee Party,JP,JP,27
+11,Isiolo,Gindole,Challa Wario,32,Communist Party Of Kenya,CPK,CPK,32
+11,Isiolo,Jaldesa,Rehema Dida,Ind,Independent,IND,IND_WMNA11_01,IND_WMNA11_01
+11,Isiolo,Kagwira,Winfred,15,United Democratic Alliance,UDA,UDA,15
+11,Isiolo,Kirimi,Milkah Kawira,82,The Service Party,TSP,TSP,82
+11,Isiolo,Konso,Jillo Mumina,8,Devolution Empowerment Party,DEP,DEP,8
+11,Isiolo,Loktanei,Caroline Adapal,83,National Ordinary Peoples Empowerment Union,NOPEU,NOPEU,83
+11,Isiolo,Musa,Sumeiya Bishar,85,Democratic Action Party-Kenya,DAP-K,DAP-K,85
+12,Meru,Biriri,Felicity Nkirote,8,Devolution Empowerment Party,DEP,DEP,8
+12,Meru,Kaburu,Perpetual Mary Kagweni,34,Safina,SAFINA,SAFINA,34
+12,Meru,Kailemia,Elizabeth Karambu,15,United Democratic Alliance,UDA,UDA,15
+12,Meru,Kanana,Beth,21,Orange Democratic Movement,ODM,ODM,21
+12,Meru,Kinyua,Susan K M,5,Mwangaza Tu Party,MTP,MTP,5
+12,Meru,Mbui,Marzellah Gakii,27,Jubilee Party,JP,JP,27
+12,Meru,Michuki,Charity Kagendo,62,Amani National Congress,ANC,ANC,62
+12,Meru,Munoru,Miriam Karema,Ind,Independent,IND,IND_WMNA12_01,IND_WMNA12_01
+12,Meru,Mutwiri,Irene Mukuba,Ind,Independent,IND,IND_WMNA12_02,IND_WMNA12_02
+12,Meru,Mwirigi,Edith Nkatha,Ind,Independent,IND,IND_WMNA12_03,IND_WMNA12_03
+12,Meru,Ngatunyi,Mary Ncekei,Ind,Independent,IND,IND_WMNA12_04,IND_WMNA12_04
+13,Tharaka - Nithi,Julius,Lucy Wanja,Ind,Independent,IND,IND_WMNA13_01,IND_WMNA13_01
+13,Tharaka - Nithi,Kambanja,Penina Nkamba Murungi,27,Jubilee Party,JP,JP,27
+13,Tharaka - Nithi,Kinyua,Beatrice Kathomi,15,United Democratic Alliance,UDA,UDA,15
+13,Tharaka - Nithi,Kithinji,Sarah Karimi,21,Orange Democratic Movement,ODM,ODM,21
+13,Tharaka - Nithi,Nduyo,Susan Ngugi,82,The Service Party,TSP,TSP,82
+14,Embu,Double N,Pamela Njoki Njeru,15,United Democratic Alliance,UDA,UDA,15
+14,Embu,Gitari,Susan Wanjiru,Ind,Independent,IND,IND_WMNA14_01,IND_WMNA14_01
+14,Embu,Kariuki,Margaret Lorna,Ind,Independent,IND,IND_WMNA14_02,IND_WMNA14_02
+14,Embu,Kibocha,Jacquelyne Wambui,21,Orange Democratic Movement,ODM,ODM,21
+14,Embu,Marigu,Mary Marigu,33,Kenya African National Union,KANU,KANU,33
+14,Embu,Mitaru,Rose Rwamba,1,National Rainbow Coalition-Kenya,NARC-KENYA,NARC-KENYA,1
+14,Embu,Mwangi,Mary Wangari,62,Amani National Congress,ANC,ANC,62
+14,Embu,Njiru,Catherine Wanja,86,Party For Peace And Development,PPD,PPD,86
+14,Embu,Njiru,Jane Wanjuki,Ind,Independent,IND,IND_WMNA14_03,IND_WMNA14_03
+14,Embu,Njiru,Margery Wawira,8,Devolution Empowerment Party,DEP,DEP,8
+14,Embu,Njue,Rosemary Murugi,13,Democratic Party Of Kenya,DP,DP,13
+14,Embu,Nyaga,Susan Mbuya,27,Jubilee Party,JP,JP,27
+14,Embu,Wambura,Josephine,2,The National Vision Party,NVP,NVP,2
+15,Kitui,Kasalu,Irene Muthoni,12,Wiper Democratic Movement- Kenya,WDM,WDM,12
+15,Kitui,Kitemange,Emmah Kamene,67,Maendeleo Chap Chap Party,MCCP,MCCP,67
+15,Kitui,Malonza,Peninah,15,United Democratic Alliance,UDA,UDA,15
+15,Kitui,Mutisya,Ann Meliki,29,National Rainbow Coalition,NARC,NARC,29
+15,Kitui,Ndile,Esther Kalunda,27,Jubilee Party,JP,JP,27
+15,Kitui,Nguu,Jackline Lameki,80,Usawa Kwa Wote Party,USAWA,USAWA,80
+16,Machakos,Kamene,Joyce,12,Wiper Democratic Movement- Kenya,WDM,WDM,12
+16,Machakos,Kioko,Selinah Mwende,49,Federal Party Of Kenya,FPK,FPK,49
+16,Machakos,Kisyang'a,Elizabeth,75,Empowerment And Liberation Party,ELP,ELP,75
+16,Machakos,Muli,Benedetta Mutunge,27,Jubilee Party,JP,JP,27
+16,Machakos,Munyao,Josephine Wayua,66,Peoples Trust Party,PTP,PTP,66
+16,Machakos,Musyoki,Victoria Ndunge,36,Chama Cha Uzalendo,CCU,CCU,36
+16,Machakos,Mutua,Eunice Nzilani,15,United Democratic Alliance,UDA,UDA,15
+16,Machakos,Ndunda,Ritah Ndunge,67,Maendeleo Chap Chap Party,MCCP,MCCP,67
+17,Makueni,Kihumba,Jacinta Wanza,29,National Rainbow Coalition,NARC,NARC,29
+17,Makueni,Kingoo,Betty Kanini,21,Orange Democratic Movement,ODM,ODM,21
+17,Makueni,Kitundu,Jane Wavinya,67,Maendeleo Chap Chap Party,MCCP,MCCP,67
+17,Makueni,Matingi,Dorcas Musengya,95,Green Thinking Action Party,GTAP,GTAP,95
+17,Makueni,Maweu,Damaris Mbaika,62,Amani National Congress,ANC,ANC,62
+17,Makueni,Mumo,Rose Museo,12,Wiper Democratic Movement- Kenya,WDM,WDM,12
+17,Makueni,Mutula,Mbula,Ind,Independent,IND,IND_WMNA17_01,IND_WMNA17_01
+17,Makueni,Mwau,Adelina Ndeto,15,United Democratic Alliance,UDA,UDA,15
+17,Makueni,Mwewa,Grace Mueni Francis,36,Chama Cha Uzalendo,CCU,CCU,36
+17,Makueni,Nzioka,Maureen Wavinya,50,Muungano Party,MUUNGANO,MUUNGANO,50
+18,Nyandarua,Gitau,Faith Wairimu,15,United Democratic Alliance,UDA,UDA,15
+18,Nyandarua,Kabacho,Naomi Wanjugu,Ind,Independent,IND,IND_WMNA18_01,IND_WMNA18_01
+18,Nyandarua,Kinyanjui,Ruth Wambui,80,Usawa Kwa Wote Party,USAWA,USAWA,80
+18,Nyandarua,Mucheke,Monicah Nyambura,Ind,Independent,IND,IND_WMNA18_02,IND_WMNA18_02
+18,Nyandarua,Muhia,Judy Nyambura,82,The Service Party,TSP,TSP,82
+18,Nyandarua,Muhoho,Esther Wanjiku,27,Jubilee Party,JP,JP,27
+18,Nyandarua,Mwathi,Marion Wanjira,87,Chama Cha Kazi,KAZI,KAZI,87
+19,Nyeri,Githumbi,Sunny Njeri,80,Usawa Kwa Wote Party,USAWA,USAWA,80
+19,Nyeri,Karigo,Priscila Wambaire,Ind,Independent,IND,IND_WMNA19_01,IND_WMNA19_01
+19,Nyeri,Karungaru,Margaret,Ind,Independent,IND,IND_WMNA19_02,IND_WMNA19_02
+19,Nyeri,Komu,Rose Wambui,87,Chama Cha Kazi,KAZI,KAZI,87
+19,Nyeri,Muthoni,Anne Caroline,Ind,Independent,IND,IND_WMNA19_03,IND_WMNA19_03
+19,Nyeri,Njoori,Mary Njeri,27,Jubilee Party,JP,JP,27
+19,Nyeri,Njoroge,Ann Wanjuhi,Ind,Independent,IND,IND_WMNA19_04,IND_WMNA19_04
+19,Nyeri,Wachira,Rahab Mukami,15,United Democratic Alliance,UDA,UDA,15
+19,Nyeri,Wahome,Jecinta Wanjira,82,The Service Party,TSP,TSP,82
+20,Kirinyaga,Gichamba,Lydiah Gicugu,80,Usawa Kwa Wote Party,USAWA,USAWA,80
+20,Kirinyaga,Githinji,Anne Wangechi,Ind,Independent,IND,IND_WMNA20_01,IND_WMNA20_01
+20,Kirinyaga,Kamami,Elizabeth Nyawira,1,National Rainbow Coalition-Kenya,NARC-KENYA,NARC-KENYA,1
+20,Kirinyaga,Karani,Shujaa Rose Wanjiru Wachira,27,Jubilee Party,JP,JP,27
+20,Kirinyaga,Maina,Jane Njeri,15,United Democratic Alliance,UDA,UDA,15
+20,Kirinyaga,Ngunyi,Beth Wambura,Ind,Independent,IND,IND_WMNA20_02,IND_WMNA20_02
+20,Kirinyaga,Njue,Tabitha Wanjiku,44,Party Of Democratic Unity,PDU,PDU,44
+20,Kirinyaga,Wambui,Emmah Waithera,79,United Green Movement,UGM,UGM,79
+21,Murang'a,Chege,Frasiah Muthoni,Ind,Independent,IND,IND_WMNA21_01,IND_WMNA21_01
+21,Murang'a,Kibinda,Beth Waithira Mburu,47,Farmers Party,FP,FP,47
+21,Murang'a,Kimani,Isabel Njeri,80,Usawa Kwa Wote Party,USAWA,USAWA,80
+21,Murang'a,Kinuthia,Julia Wanjiru,62,Amani National Congress,ANC,ANC,62
+21,Murang'a,Maina,Betty Njeri,15,United Democratic Alliance,UDA,UDA,15
+21,Murang'a,Muchai,Leah Wanjiru,34,Safina,SAFINA,SAFINA,34
+21,Murang'a,Muithirania,Evelyn Waithira,27,Jubilee Party,JP,JP,27
+22,Kiambu,Bakari,Njeri,87,Chama Cha Kazi,KAZI,KAZI,87
+22,Kiambu,Kim,Loise,Ind,Independent,IND,IND_WMNA22_01,IND_WMNA22_01
+22,Kiambu,Kirika,Mary Wanjiru Mwaniki,Ind,Independent,IND,IND_WMNA22_02,IND_WMNA22_02
+22,Kiambu,Koinange,Lennah Catherine,Ind,Independent,IND,IND_WMNA22_03,IND_WMNA22_03
+22,Kiambu,Muratha,Anne Wanjiku Mugo,15,United Democratic Alliance,UDA,UDA,15
+22,Kiambu,Mwangi,Gladys Njeri Chania,27,Jubilee Party,JP,JP,27
+22,Kiambu,Ndung'u,Lydia Njeri,21,Orange Democratic Movement,ODM,ODM,21
+22,Kiambu,Ndungu,Mercy Nungari,88,Tujibebe Wakenya Party,JIBEBE,JIBEBE,88
+22,Kiambu,Wachiuri,Hellen Wagaki,80,Usawa Kwa Wote Party,USAWA,USAWA,80
+23,Turkana,Aletia,Susan Amlango,27,Jubilee Party,JP,JP,27
+23,Turkana,Kinyonga,Tina Ekintos,92,Mabadiliko Party Of Kenya,MAPK,MAPK,92
+23,Turkana,Lokala,Audan Leah,21,Orange Democratic Movement,ODM,ODM,21
+23,Turkana,Lokuruka,Pauline Akai,Ind,Independent,IND,IND_WMNA23_01,IND_WMNA23_01
+23,Turkana,Ngitit,Cecilia Asinyen,15,United Democratic Alliance,UDA,UDA,15
+24,West Pokot,Cheptoo,Lilian Tomitom,15,United Democratic Alliance,UDA,UDA,15
+24,West Pokot,Cherotich,Hellen,54,Chama Cha Mashinani,CCM,CCM,54
+24,West Pokot,Chongorio,Night Cherop,Ind,Independent,IND,IND_WMNA24_01,IND_WMNA24_01
+24,West Pokot,Kasiwai,Rael Chepkemoi,89,Kenya Union Party,KUP,KUP,89
+24,West Pokot,Mukenyang,Catherine Chepkemoi,33,Kenya African National Union,KANU,KANU,33
+24,West Pokot,Rotino,Rodah Chepkopus,21,Orange Democratic Movement,ODM,ODM,21
+25,Samburu,Kulea,Josephine,85,Democratic Action Party-Kenya,DAP-K,DAP-K,85
+25,Samburu,Lekaikum,Naomi Setiyo,13,Democratic Party Of Kenya,DP,DP,13
+25,Samburu,Lemoosa,Josephine Statian,82,The Service Party,TSP,TSP,82
+25,Samburu,Lenguris,Pauline,15,United Democratic Alliance,UDA,UDA,15
+25,Samburu,Leseeto,Jespa,62,Amani National Congress,ANC,ANC,62
+25,Samburu,Leshoomo,Maison,27,Jubilee Party,JP,JP,27
+26,Trans Nzoia,Gladys,Mulati Nekesa,2,The National Vision Party,NVP,NVP,2
+26,Trans Nzoia,Kamau,Eunice Wanjiru Karanja,82,The Service Party,TSP,TSP,82
+26,Trans Nzoia,Kemunto,Naomi Okul,21,Orange Democratic Movement,ODM,ODM,21
+26,Trans Nzoia,Khatundi,Phanice Naliaka Wanyonyi,85,Democratic Action Party-Kenya,DAP-K,DAP-K,85
+26,Trans Nzoia,Mukasa,Pauline Mwengi Petro,Ind,Independent,IND,IND_WMNA26_01,IND_WMNA26_01
+26,Trans Nzoia,Nakhumicha,Susan Wafula,23,Forum For Restoration Of Democracy-Kenya,FORD-KENYA,FORD-KENYA,23
+26,Trans Nzoia,Nangabo,Janet Wanyama,Ind,Independent,IND,IND_WMNA26_02,IND_WMNA26_02
+26,Trans Nzoia,Nelima,Susan,27,Jubilee Party,JP,JP,27
+26,Trans Nzoia,Siyoi,Lillian Chebet,15,United Democratic Alliance,UDA,UDA,15
+27,Uasin Gishu,Kemboi,Dorcas Jebet,21,Orange Democratic Movement,ODM,ODM,21
+27,Uasin Gishu,Shollei,Gladys Jepkosgei Boss,15,United Democratic Alliance,UDA,UDA,15
+28,Elgeyo Marakwet,Chebaibai,Jane Jepkorir Kiptoo,15,United Democratic Alliance,UDA,UDA,15
+28,Elgeyo Marakwet,Kipchumba,Rose Jemutai,40,The New Democrats,TND,TND,40
+28,Elgeyo Marakwet,Ng'elechei,Caroline Jeptoo,Ind,Independent,IND,IND_WMNA28_01,IND_WMNA28_01
+29,Nandi,Korir,Truphena Tongoi,44,Party Of Democratic Unity,PDU,PDU,44
+29,Nandi,Muge,Cynthia Jepkosgei,15,United Democratic Alliance,UDA,UDA,15
+29,Nandi,Ruttoh,Stellah Chepkemboi,Ind,Independent,IND,IND_WMNA29_01,IND_WMNA29_01
+30,Baringo,Cheruiyot,Gladwell Jesire Tungo,33,Kenya African National Union,KANU,KANU,33
+30,Baringo,Kipkogei,Sarah Jepkorir,54,Chama Cha Mashinani,CCM,CCM,54
+30,Baringo,Lomong,Rebecca Arupe Rutto,89,Kenya Union Party,KUP,KUP,89
+30,Baringo,Sergon,Flowrence Jematiah,15,United Democratic Alliance,UDA,UDA,15
+30,Baringo,Torono,Naomi,3,The Labour Party Of Kenya,LPK,LPK,3
+31,Laikipia,Apollos,Jane Agnes Wanjira,Ind,Independent,IND,IND_WMNA31_01,IND_WMNA31_01
+31,Laikipia,Gitonga,Purity Kendi,Ind,Independent,IND,IND_WMNA31_02,IND_WMNA31_02
+31,Laikipia,Kagiri,Jane Wangechi,15,United Democratic Alliance,UDA,UDA,15
+31,Laikipia,Kamau,Dorcas Nyokabi,Ind,Independent,IND,IND_WMNA31_03,IND_WMNA31_03
+31,Laikipia,Muchiri,Wadayana Beth Waithira,82,The Service Party,TSP,TSP,82
+31,Laikipia,Ndiritu,Virginia Wambui,27,Jubilee Party,JP,JP,27
+31,Laikipia,Wamae,Jane Wanjiru,80,Usawa Kwa Wote Party,USAWA,USAWA,80
+31,Laikipia,Warutere,Teresa Nyaguthii,1,National Rainbow Coalition-Kenya,NARC-KENYA,NARC-KENYA,1
+32,Nakuru,Chelule,Liza Chepkorir,15,United Democratic Alliance,UDA,UDA,15
+32,Nakuru,Cheptanui,Eunice Lelei,62,Amani National Congress,ANC,ANC,62
+32,Nakuru,Githinji,Agnes Njambi,27,Jubilee Party,JP,JP,27
+32,Nakuru,Ibrahim,Zaituna Zainabu,41,United Democratic Movement,UDM,UDM,41
+32,Nakuru,Kairo,Jeniffer Kajuju,Ind,Independent,IND,IND_WMNA32_01,IND_WMNA32_01
+32,Nakuru,Mamasoko,Eunice Muriithi,61,Ubuntu Peoples Forum,UPF,UPF,61
+32,Nakuru,Mbugua,Mary Njoki G,Ind,Independent,IND,IND_WMNA32_02,IND_WMNA32_02
+32,Nakuru,Murathimme,Anne Wanjiru,80,Usawa Kwa Wote Party,USAWA,USAWA,80
+32,Nakuru,Mwaniki,Philomena Njeri,Ind,Independent,IND,IND_WMNA32_03,IND_WMNA32_03
+32,Nakuru,Nyakiba,Rose,21,Orange Democratic Movement,ODM,ODM,21
+33,Narok,Chepkoech,Risper,Ind,Independent,IND,IND_WMNA33_01,IND_WMNA33_01
+33,Narok,Emily,Chepkemoi Korir,54,Chama Cha Mashinani,CCM,CCM,54
+33,Narok,Jane,Nawai Nampaso,27,Jubilee Party,JP,JP,27
+33,Narok,Koini,Stellah Malaso,33,Kenya African National Union,KANU,KANU,33
+33,Narok,Masikonte,Lydia Naneu,21,Orange Democratic Movement,ODM,ODM,21
+33,Narok,Tonkei,Rebecca Noonaishi,15,United Democratic Alliance,UDA,UDA,15
+34,Kajiado,Abdulkadir,Halima Shariff,Ind,Independent,IND,IND_WMNA34_01,IND_WMNA34_01
+34,Kajiado,Mathenge,Lucy Wachuka,82,The Service Party,TSP,TSP,82
+34,Kajiado,Moinkett,Jenipher Sayianka,21,Orange Democratic Movement,ODM,ODM,21
+34,Kajiado,Nampaso,Jane,65,Kenya Reform Party,KRP,KRP,65
+34,Kajiado,Sankaire,Leah Sopiato,15,United Democratic Alliance,UDA,UDA,15
+34,Kajiado,Sekeyian,Tito Josphine,12,Wiper Democratic Movement- Kenya,WDM,WDM,12
+34,Kajiado,Simayiai,Rakita Justine,27,Jubilee Party,JP,JP,27
+36,Bomet,Birir,Florence Cherono,Ind,Independent,IND,IND_WMNA36_01,IND_WMNA36_01
+36,Bomet,Chepkemoi,Beatrice,Ind,Independent,IND,IND_WMNA36_02,IND_WMNA36_02
+36,Bomet,Chepkorir,Linet,15,United Democratic Alliance,UDA,UDA,15
+36,Bomet,Cherono,Viola Tesot,Ind,Independent,IND,IND_WMNA36_03,IND_WMNA36_03
+36,Bomet,Koech,Susan,Ind,Independent,IND,IND_WMNA36_04,IND_WMNA36_04
+36,Bomet,Korir,Susan,21,Orange Democratic Movement,ODM,ODM,21
+36,Bomet,Langat,Jescah Cherono,62,Amani National Congress,ANC,ANC,62
+36,Bomet,Milgo,Alice Chepkorir,54,Chama Cha Mashinani,CCM,CCM,54
+36,Bomet,Rotich,Helen Taplelei,12,Wiper Democratic Movement- Kenya,WDM,WDM,12
+37,Kakamega,Agoi,Loice Faith,33,Kenya African National Union,KANU,KANU,33
+37,Kakamega,Juma,Hadija Nganyi,15,United Democratic Alliance,UDA,UDA,15
+37,Kakamega,Lusweti,Consolata Namisi,62,Amani National Congress,ANC,ANC,62
+37,Kakamega,Muhanda,Elsie Busihile,21,Orange Democratic Movement,ODM,ODM,21
+37,Kakamega,Musawa,Rose Ayuma,28,Maendeleo Democratic Party,MDP,MDP,28
+37,Kakamega,Nyangala,Lydia Pamella,64,United Democratic Party,UDP,UDP,64
+37,Kakamega,Shiyonga,Masitsa Naomi Mama Signal,85,Democratic Action Party-Kenya,DAP-K,DAP-K,85
+38,Vihiga,Adagala,Beatrice Kahai,62,Amani National Congress,ANC,ANC,62
+38,Vihiga,Afandi,Violet Bagada,64,United Democratic Party,UDP,UDP,64
+38,Vihiga,Amalemba,Mary Nelima,85,Democratic Action Party-Kenya,DAP-K,DAP-K,85
+38,Vihiga,Amimo,Rhodah Mbandu,23,Forum For Restoration Of Democracy-Kenya,FORD-KENYA,FORD-KENYA,23
+38,Vihiga,Bukachi,Ruth Wanza,Ind,Independent,IND,IND_WMNA38_01,IND_WMNA38_01
+38,Vihiga,Lukalo,Beatrice Afandi,72,Movement For Democracy And Growth,MDG,MDG,72
+38,Vihiga,Lungahi,Nancy Kabeyeka,Ind,Independent,IND,IND_WMNA38_02,IND_WMNA38_02
+38,Vihiga,Majani,Winnie Vugutsa,21,Orange Democratic Movement,ODM,ODM,21
+38,Vihiga,Mbuni',Margaret Munalitsi,33,Kenya African National Union,KANU,KANU,33
+38,Vihiga,Obiri,Lornah,68,Democratic Congress,DC,DC,68
+38,Vihiga,Oriedo,Kevina Shikutwa,27,Jubilee Party,JP,JP,27
+39,Bungoma,Khalagai,Namalwa Mutekhele,Ind,Independent,IND,IND_WMNA39_01,IND_WMNA39_01
+39,Bungoma,Khayanga Nanjala,Sween Nyongesa,Ind,Independent,IND,IND_WMNA39_02,IND_WMNA39_02
+39,Bungoma,Kibaba,Charity Nancy Nanyama,15,United Democratic Alliance,UDA,UDA,15
+39,Bungoma,Masbayi,Rebecca Catherine Nafula,27,Jubilee Party,JP,JP,27
+39,Bungoma,Mattere,Rose Khainja,Ind,Independent,IND,IND_WMNA39_03,IND_WMNA39_03
+39,Bungoma,Musungu,Elizabeth,21,Orange Democratic Movement,ODM,ODM,21
+39,Bungoma,Opati,Grace Nasimiyu Khisa Webi,38,Peoples Empowerment Party,PEP,PEP,38
+39,Bungoma,Simiyu,Roselinder,62,Amani National Congress,ANC,ANC,62
+39,Bungoma,Toili,Margaret Nabwala,49,Federal Party Of Kenya,FPK,FPK,49
+39,Bungoma,Wambilianga,Catherine Nanjala,23,Forum For Restoration Of Democracy-Kenya,FORD-KENYA,FORD-KENYA,23
+39,Bungoma,Wanyonyi,Reginalda Nakhumicha,85,Democratic Action Party-Kenya,DAP-K,DAP-K,85
+39,Bungoma,Waswa,Catherine Naliaka,64,United Democratic Party,UDP,UDP,64
+40,Busia,Apopo,Elizabeth Akinyi,1,National Rainbow Coalition-Kenya,NARC-KENYA,NARC-KENYA,1
+40,Busia,Makokha,Mary Aconsilia,72,Movement For Democracy And Growth,MDG,MDG,72
+40,Busia,Mang'eni,Susan Auma,15,United Democratic Alliance,UDA,UDA,15
+40,Busia,Odhiambo,Maureen,23,Forum For Restoration Of Democracy-Kenya,FORD-KENYA,FORD-KENYA,23
+40,Busia,Omanyo,Catherine Nakhabi,21,Orange Democratic Movement,ODM,ODM,21
+40,Busia,Omasaja,Evalyne Ikwii,85,Democratic Action Party-Kenya,DAP-K,DAP-K,85
+41,Siaya,Ayimba,Sellah A,72,Movement For Democracy And Growth,MDG,MDG,72
+41,Siaya,Dundee,Bethy Aber,9,Kenya National Congress,KNC,KNC,9
+41,Siaya,Ochieng,Mildred Atieno,Ind,Independent,IND,IND_WMNA41_01,IND_WMNA41_01
+41,Siaya,Oduor,Christine Ombaka,21,Orange Democratic Movement,ODM,ODM,21
+41,Siaya,Ogola,Emmah Akinyi,28,Maendeleo Democratic Party,MDP,MDP,28
+41,Siaya,Ongoma,Pamela Auma,15,United Democratic Alliance,UDA,UDA,15
+41,Siaya,Oudia,Maslister Anyango,33,Kenya African National Union,KANU,KANU,33
+42,Kisumu,Ayugi,Filgona Atieno,15,United Democratic Alliance,UDA,UDA,15
+42,Kisumu,Busia,Ruth Adhiambo Odinga,21,Orange Democratic Movement,ODM,ODM,21
+42,Kisumu,Omondi,Rose Auma Kisia,Ind,Independent,IND,IND_WMNA42_01,IND_WMNA42_01
+42,Kisumu,Otieno,Vallentine Anyango,72,Movement For Democracy And Growth,MDG,MDG,72
+43,Homa Bay,Bensuda,Joyce Atieno Osogo,21,Orange Democratic Movement,ODM,ODM,21
+43,Homa Bay,Kiserem,Rose Atieno,44,Party Of Democratic Unity,PDU,PDU,44
+43,Homa Bay,Marucha,Molline Atieno,Ind,Independent,IND,IND_WMNA43_01,IND_WMNA43_01
+43,Homa Bay,Nyandiek,Tabitha Achieng,Ind,Independent,IND,IND_WMNA43_02,IND_WMNA43_02
+43,Homa Bay,Ogweno,Easter Elizabeth,Ind,Independent,IND,IND_WMNA43_03,IND_WMNA43_03
+43,Homa Bay,Ojode,Mary Awuor,85,Democratic Action Party-Kenya,DAP-K,DAP-K,85
+43,Homa Bay,Rangili,Melida Auma,15,United Democratic Alliance,UDA,UDA,15
+44,Migori,Ghati,Dennitah,21,Orange Democratic Movement,ODM,ODM,21
+44,Migori,Mohammed,Fatuma Zainab,Ind,Independent,IND,IND_WMNA44_01,IND_WMNA44_01
+44,Migori,Ochuodho,Zilpah Audline,Ind,Independent,IND,IND_WMNA44_02,IND_WMNA44_02
+44,Migori,Odie,Hellen Adhiambo,Ind,Independent,IND,IND_WMNA44_03,IND_WMNA44_03
+44,Migori,Otieno,Lilian Awino,27,Jubilee Party,JP,JP,27
+44,Migori,Sirega,Josphine Achieng,Ind,Independent,IND,IND_WMNA44_04,IND_WMNA44_04
+45,Kisii,Aburi,Donya Dorice,12,Wiper Democratic Movement- Kenya,WDM,WDM,12
+45,Kisii,Getoi,Lucyfellah Bwari,13,Democratic Party Of Kenya,DP,DP,13
+45,Kisii,Karani,Jackline,85,Democratic Action Party-Kenya,DAP-K,DAP-K,85
+45,Kisii,Mamwacha,Dorothy Kwamboka,23,Forum For Restoration Of Democracy-Kenya,FORD-KENYA,FORD-KENYA,23
+45,Kisii,Mogoi,Gertrudah Nyatich,81,United Progressive Alliance,UPA,UPA,81
+45,Kisii,Ngare,Forntina Roseline,62,Amani National Congress,ANC,ANC,62
+45,Kisii,Nyamao,Julie Nyanchama,9,Kenya National Congress,KNC,KNC,9
+45,Kisii,Obino,Maureen Moraa,Ind,Independent,IND,IND_WMNA45_01,IND_WMNA45_01
+45,Kisii,Ogendo,Evelyn Nyoteyo,Ind,Independent,IND,IND_WMNA45_02,IND_WMNA45_02
+45,Kisii,Onderi,Vicky Nyaboke,40,The New Democrats,TND,TND,40
+45,Kisii,Ongera,Janet,21,Orange Democratic Movement,ODM,ODM,21
+45,Kisii,Onsarigo,Peris Bitutu,27,Jubilee Party,JP,JP,27
+45,Kisii,Oroo,Teresa Bitutu,15,United Democratic Alliance,UDA,UDA,15
+45,Kisii,Otundo,Rael,25,Progressive Party Of Kenya,PPOK,PPOK,25
+46,Nyamira,Achoki,Perus Kemunto,Ind,Independent,IND,IND_WMNA46_01,IND_WMNA46_01
+46,Nyamira,Asanyo,Margaret Moraa,37,National Agenda Party Of Kenya,NAPK,NAPK,37
+46,Nyamira,Chae,Alice Nyanchoka,23,Forum For Restoration Of Democracy-Kenya,FORD-KENYA,FORD-KENYA,23
+46,Nyamira,Matoke,Emily Kwamboka,21,Orange Democratic Movement,ODM,ODM,21
+46,Nyamira,Momanyi,Jerusha Mongina,27,Jubilee Party,JP,JP,27
+46,Nyamira,Mongare,Rebecca Thomas,62,Amani National Congress,ANC,ANC,62
+46,Nyamira,Nyamwanda,Jemima Mary,19,Kenya Social Congress,KSC,KSC,19
+46,Nyamira,Obaigwa,Anned Nyakerario,25,Progressive Party Of Kenya,PPOK,PPOK,25
+46,Nyamira,Omanwa,Josephine Moraa,15,United Democratic Alliance,UDA,UDA,15
+46,Nyamira,Ombogo,Jassy Moraa,1,National Rainbow Coalition-Kenya,NARC-KENYA,NARC-KENYA,1
+46,Nyamira,Onguso,Judith Moraa,84,National Reconstruction Alliance,NRA,NRA,84
+46,Nyamira,Onsongo,Nancy Nyaboke,33,Kenya African National Union,KANU,KANU,33
+47,Nairobi City,Gitau,Monica Wamaitha,80,Usawa Kwa Wote Party,USAWA,USAWA,80
+47,Nairobi City,John,Delvine Moraa,Ind,Independent,IND,IND_WMNA47_01,IND_WMNA47_01
+47,Nairobi City,Mudachi,Mary Musuki,95,Green Thinking Action Party,GTAP,GTAP,95
+47,Nairobi City,Ntwiga,Brendah Kangai,Ind,Independent,IND,IND_WMNA47_02,IND_WMNA47_02
+47,Nairobi City,Omanga,Millicent Nyaboke,15,United Democratic Alliance,UDA,UDA,15
+47,Nairobi City,Omolo,Teresia Antony,44,Party Of Democratic Unity,PDU,PDU,44
+47,Nairobi City,Passaris,Esther Muthoni,21,Orange Democratic Movement,ODM,ODM,21
