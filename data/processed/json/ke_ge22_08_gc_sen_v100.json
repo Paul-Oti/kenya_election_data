@@ -1,0 +1,3849 @@
+{
+    "SEN": {
+        "1": [
+            {
+                "County Code": "1",
+                "County Name": "Mombasa",
+                "Candidate Surname": "Bwire",
+                "Candidate Other Names": "Charles Okumu",
+                "Party Code": "62",
+                "Political Party Name": "Amani National Congress",
+                "Abbreviation": "ANC",
+                "Abbreviation Enhanced": "ANC",
+                "Party Code Enhanced": "62"
+            },
+            {
+                "County Code": "1",
+                "County Name": "Mombasa",
+                "Candidate Surname": "Elisha",
+                "Candidate Other Names": "Kilale Lawrence",
+                "Party Code": "88",
+                "Political Party Name": "Tujibebe Wakenya Party",
+                "Abbreviation": "JIBEBE",
+                "Abbreviation Enhanced": "JIBEBE",
+                "Party Code Enhanced": "88"
+            },
+            {
+                "County Code": "1",
+                "County Name": "Mombasa",
+                "Candidate Surname": "Kassim",
+                "Candidate Other Names": "Abdusalaam Ali",
+                "Party Code": "12",
+                "Political Party Name": "Wiper Democratic Movement- Kenya",
+                "Abbreviation": "WDM",
+                "Abbreviation Enhanced": "WDM",
+                "Party Code Enhanced": "12"
+            },
+            {
+                "County Code": "1",
+                "County Name": "Mombasa",
+                "Candidate Surname": "Katana",
+                "Candidate Other Names": "Hazel Nyamoki",
+                "Party Code": "27",
+                "Political Party Name": "Jubilee Party",
+                "Abbreviation": "JP",
+                "Abbreviation Enhanced": "JP",
+                "Party Code Enhanced": "27"
+            },
+            {
+                "County Code": "1",
+                "County Name": "Mombasa",
+                "Candidate Surname": "Miraj",
+                "Candidate Other Names": "Abdalla Abubakar",
+                "Party Code": "91",
+                "Political Party Name": "Pamoja African Alliance",
+                "Abbreviation": "PAA",
+                "Abbreviation Enhanced": "PAA",
+                "Party Code Enhanced": "91"
+            },
+            {
+                "County Code": "1",
+                "County Name": "Mombasa",
+                "Candidate Surname": "Mittau",
+                "Candidate Other Names": "Peterson",
+                "Party Code": "67",
+                "Political Party Name": "Maendeleo Chap Chap Party",
+                "Abbreviation": "MCCP",
+                "Abbreviation Enhanced": "MCCP",
+                "Party Code Enhanced": "67"
+            },
+            {
+                "County Code": "1",
+                "County Name": "Mombasa",
+                "Candidate Surname": "Mohamed",
+                "Candidate Other Names": "Mohamed Amir",
+                "Party Code": "Ind",
+                "Political Party Name": "Independent",
+                "Abbreviation": "IND",
+                "Abbreviation Enhanced": "IND_SEN1_01",
+                "Party Code Enhanced": "IND_SEN1_01"
+            },
+            {
+                "County Code": "1",
+                "County Name": "Mombasa",
+                "Candidate Surname": "Mutune",
+                "Candidate Other Names": "Cornelius Muuke",
+                "Party Code": "46",
+                "Political Party Name": "United Party Of Independent Alliance",
+                "Abbreviation": "UPIA",
+                "Abbreviation Enhanced": "UPIA",
+                "Party Code Enhanced": "46"
+            },
+            {
+                "County Code": "1",
+                "County Name": "Mombasa",
+                "Candidate Surname": "Mwaguya",
+                "Candidate Other Names": "Hamisi Mashobo",
+                "Party Code": "15",
+                "Political Party Name": "United Democratic Alliance",
+                "Abbreviation": "UDA",
+                "Abbreviation Enhanced": "UDA",
+                "Party Code Enhanced": "15"
+            },
+            {
+                "County Code": "1",
+                "County Name": "Mombasa",
+                "Candidate Surname": "Mwidau",
+                "Candidate Other Names": "Hisham Abdulla",
+                "Party Code": "Ind",
+                "Political Party Name": "Independent",
+                "Abbreviation": "IND",
+                "Abbreviation Enhanced": "IND_SEN1_02",
+                "Party Code Enhanced": "IND_SEN1_02"
+            },
+            {
+                "County Code": "1",
+                "County Name": "Mombasa",
+                "Candidate Surname": "Mwinyihaji",
+                "Candidate Other Names": "Mohamed Faki",
+                "Party Code": "21",
+                "Political Party Name": "Orange Democratic Movement",
+                "Abbreviation": "ODM",
+                "Abbreviation Enhanced": "ODM",
+                "Party Code Enhanced": "21"
+            },
+            {
+                "County Code": "1",
+                "County Name": "Mombasa",
+                "Candidate Surname": "Somo",
+                "Candidate Other Names": "Alamin Siwa",
+                "Party Code": "Ind",
+                "Political Party Name": "Independent",
+                "Abbreviation": "IND",
+                "Abbreviation Enhanced": "IND_SEN1_03",
+                "Party Code Enhanced": "IND_SEN1_03"
+            }
+        ],
+        "2": [
+            {
+                "County Code": "2",
+                "County Name": "Kwale",
+                "Candidate Surname": "Akelo",
+                "Candidate Other Names": "Prisca Oyuga",
+                "Party Code": "83",
+                "Political Party Name": "National Ordinary Peoples Empowerment Union",
+                "Abbreviation": "NOPEU",
+                "Abbreviation Enhanced": "NOPEU",
+                "Party Code Enhanced": "83"
+            },
+            {
+                "County Code": "2",
+                "County Name": "Kwale",
+                "Candidate Surname": "Boy",
+                "Candidate Other Names": "Issa Juma",
+                "Party Code": "21",
+                "Political Party Name": "Orange Democratic Movement",
+                "Abbreviation": "ODM",
+                "Abbreviation Enhanced": "ODM",
+                "Party Code Enhanced": "21"
+            },
+            {
+                "County Code": "2",
+                "County Name": "Kwale",
+                "Candidate Surname": "Hassan",
+                "Candidate Other Names": "Nuru Lula",
+                "Party Code": "80",
+                "Political Party Name": "Usawa Kwa Wote Party",
+                "Abbreviation": "USAWA",
+                "Abbreviation Enhanced": "USAWA",
+                "Party Code Enhanced": "80"
+            },
+            {
+                "County Code": "2",
+                "County Name": "Kwale",
+                "Candidate Surname": "Kizuka",
+                "Candidate Other Names": "Mwanasha Suleiman",
+                "Party Code": "12",
+                "Political Party Name": "Wiper Democratic Movement- Kenya",
+                "Abbreviation": "WDM",
+                "Abbreviation Enhanced": "WDM",
+                "Party Code Enhanced": "12"
+            },
+            {
+                "County Code": "2",
+                "County Name": "Kwale",
+                "Candidate Surname": "Mwadumbo",
+                "Candidate Other Names": "Salim Ali",
+                "Party Code": "62",
+                "Political Party Name": "Amani National Congress",
+                "Abbreviation": "ANC",
+                "Abbreviation Enhanced": "ANC",
+                "Party Code Enhanced": "62"
+            },
+            {
+                "County Code": "2",
+                "County Name": "Kwale",
+                "Candidate Surname": "Ndeti",
+                "Candidate Other Names": "William",
+                "Party Code": "13",
+                "Political Party Name": "Democratic Party Of Kenya",
+                "Abbreviation": "DP",
+                "Abbreviation Enhanced": "DP",
+                "Party Code Enhanced": "13"
+            },
+            {
+                "County Code": "2",
+                "County Name": "Kwale",
+                "Candidate Surname": "Nzili",
+                "Candidate Other Names": "Mudzo Kuhenderwa",
+                "Party Code": "91",
+                "Political Party Name": "Pamoja African Alliance",
+                "Abbreviation": "PAA",
+                "Abbreviation Enhanced": "PAA",
+                "Party Code Enhanced": "91"
+            },
+            {
+                "County Code": "2",
+                "County Name": "Kwale",
+                "Candidate Surname": "Obadiah",
+                "Candidate Other Names": "Hezron Mutua Mwawaza",
+                "Party Code": "34",
+                "Political Party Name": "Safina",
+                "Abbreviation": "SAFINA",
+                "Abbreviation Enhanced": "SAFINA",
+                "Party Code Enhanced": "34"
+            },
+            {
+                "County Code": "2",
+                "County Name": "Kwale",
+                "Candidate Surname": "Yama",
+                "Candidate Other Names": "Anthony Nyawa",
+                "Party Code": "15",
+                "Political Party Name": "United Democratic Alliance",
+                "Abbreviation": "UDA",
+                "Abbreviation Enhanced": "UDA",
+                "Party Code Enhanced": "15"
+            }
+        ],
+        "3": [
+            {
+                "County Code": "3",
+                "County Name": "Kilifi",
+                "Candidate Surname": "Chilango",
+                "Candidate Other Names": "Carolyne Andzazi",
+                "Party Code": "62",
+                "Political Party Name": "Amani National Congress",
+                "Abbreviation": "ANC",
+                "Abbreviation Enhanced": "ANC",
+                "Party Code Enhanced": "62"
+            },
+            {
+                "County Code": "3",
+                "County Name": "Kilifi",
+                "Candidate Surname": "Chilumo",
+                "Candidate Other Names": "Benjamin Kai",
+                "Party Code": "91",
+                "Political Party Name": "Pamoja African Alliance",
+                "Abbreviation": "PAA",
+                "Abbreviation Enhanced": "PAA",
+                "Party Code Enhanced": "91"
+            },
+            {
+                "County Code": "3",
+                "County Name": "Kilifi",
+                "Candidate Surname": "Madzayo",
+                "Candidate Other Names": "Stewart Mwachiru Shadrack",
+                "Party Code": "21",
+                "Political Party Name": "Orange Democratic Movement",
+                "Abbreviation": "ODM",
+                "Abbreviation Enhanced": "ODM",
+                "Party Code Enhanced": "21"
+            },
+            {
+                "County Code": "3",
+                "County Name": "Kilifi",
+                "Candidate Surname": "Mwabonje",
+                "Candidate Other Names": "Alex Shukran",
+                "Party Code": "15",
+                "Political Party Name": "United Democratic Alliance",
+                "Abbreviation": "UDA",
+                "Abbreviation Enhanced": "UDA",
+                "Party Code Enhanced": "15"
+            }
+        ],
+        "4": [
+            {
+                "County Code": "4",
+                "County Name": "Tana River",
+                "Candidate Surname": "Barako",
+                "Candidate Other Names": "Hantiro Abdulrahman",
+                "Party Code": "1",
+                "Political Party Name": "National Rainbow Coalition-Kenya",
+                "Abbreviation": "NARC-KENYA",
+                "Abbreviation Enhanced": "NARC-KENYA",
+                "Party Code Enhanced": "1"
+            },
+            {
+                "County Code": "4",
+                "County Name": "Tana River",
+                "Candidate Surname": "Bule",
+                "Candidate Other Names": "Ali Abdi",
+                "Party Code": "49",
+                "Political Party Name": "Federal Party Of Kenya",
+                "Abbreviation": "FPK",
+                "Abbreviation Enhanced": "FPK",
+                "Party Code Enhanced": "49"
+            },
+            {
+                "County Code": "4",
+                "County Name": "Tana River",
+                "Candidate Surname": "Dubow",
+                "Candidate Other Names": "Sadam Salat",
+                "Party Code": "62",
+                "Political Party Name": "Amani National Congress",
+                "Abbreviation": "ANC",
+                "Abbreviation Enhanced": "ANC",
+                "Party Code Enhanced": "62"
+            },
+            {
+                "County Code": "4",
+                "County Name": "Tana River",
+                "Candidate Surname": "Dukicha",
+                "Candidate Other Names": "Hassan Abdi",
+                "Party Code": "27",
+                "Political Party Name": "Jubilee Party",
+                "Abbreviation": "JP",
+                "Abbreviation Enhanced": "JP",
+                "Party Code Enhanced": "27"
+            },
+            {
+                "County Code": "4",
+                "County Name": "Tana River",
+                "Candidate Surname": "Mohamed",
+                "Candidate Other Names": "Jire Siyat",
+                "Party Code": "23",
+                "Political Party Name": "Forum For Restoration Of Democracy-Kenya",
+                "Abbreviation": "FORD-KENYA",
+                "Abbreviation Enhanced": "FORD-KENYA",
+                "Party Code Enhanced": "23"
+            },
+            {
+                "County Code": "4",
+                "County Name": "Tana River",
+                "Candidate Surname": "Mungatana",
+                "Candidate Other Names": "Danson Buya",
+                "Party Code": "15",
+                "Political Party Name": "United Democratic Alliance",
+                "Abbreviation": "UDA",
+                "Abbreviation Enhanced": "UDA",
+                "Party Code Enhanced": "15"
+            },
+            {
+                "County Code": "4",
+                "County Name": "Tana River",
+                "Candidate Surname": "Nakapepwe",
+                "Candidate Other Names": "Alice Japhet",
+                "Party Code": "77",
+                "Political Party Name": "Justice And Freedom Party",
+                "Abbreviation": "JFP",
+                "Abbreviation Enhanced": "JFP",
+                "Party Code Enhanced": "77"
+            },
+            {
+                "County Code": "4",
+                "County Name": "Tana River",
+                "Candidate Surname": "Omara",
+                "Candidate Other Names": "Bakari Garise",
+                "Party Code": "91",
+                "Political Party Name": "Pamoja African Alliance",
+                "Abbreviation": "PAA",
+                "Abbreviation Enhanced": "PAA",
+                "Party Code Enhanced": "91"
+            },
+            {
+                "County Code": "4",
+                "County Name": "Tana River",
+                "Candidate Surname": "Soba",
+                "Candidate Other Names": "Abdulaziz Mohamed",
+                "Party Code": "64",
+                "Political Party Name": "United Democratic Party",
+                "Abbreviation": "UDP",
+                "Abbreviation Enhanced": "UDP",
+                "Party Code Enhanced": "64"
+            },
+            {
+                "County Code": "4",
+                "County Name": "Tana River",
+                "Candidate Surname": "Wario",
+                "Candidate Other Names": "Golich Juma",
+                "Party Code": "21",
+                "Political Party Name": "Orange Democratic Movement",
+                "Abbreviation": "ODM",
+                "Abbreviation Enhanced": "ODM",
+                "Party Code Enhanced": "21"
+            }
+        ],
+        "5": [
+            {
+                "County Code": "5",
+                "County Name": "Lamu",
+                "Candidate Surname": "Aboubakar",
+                "Candidate Other Names": "Yusuf Mahmoud",
+                "Party Code": "62",
+                "Political Party Name": "Amani National Congress",
+                "Abbreviation": "ANC",
+                "Abbreviation Enhanced": "ANC",
+                "Party Code Enhanced": "62"
+            },
+            {
+                "County Code": "5",
+                "County Name": "Lamu",
+                "Candidate Surname": "Ali",
+                "Candidate Other Names": "Ahmed Suleiman",
+                "Party Code": "46",
+                "Political Party Name": "United Party Of Independent Alliance",
+                "Abbreviation": "UPIA",
+                "Abbreviation Enhanced": "UPIA",
+                "Party Code Enhanced": "46"
+            },
+            {
+                "County Code": "5",
+                "County Name": "Lamu",
+                "Candidate Surname": "Dhahir",
+                "Candidate Other Names": "Abdiwely Mohamed",
+                "Party Code": "37",
+                "Political Party Name": "National Agenda Party Of Kenya",
+                "Abbreviation": "NAPK",
+                "Abbreviation Enhanced": "NAPK",
+                "Party Code Enhanced": "37"
+            },
+            {
+                "County Code": "5",
+                "County Name": "Lamu",
+                "Candidate Surname": "Haji",
+                "Candidate Other Names": "Ahmed Bunu",
+                "Party Code": "21",
+                "Political Party Name": "Orange Democratic Movement",
+                "Abbreviation": "ODM",
+                "Abbreviation Enhanced": "ODM",
+                "Party Code Enhanced": "21"
+            },
+            {
+                "County Code": "5",
+                "County Name": "Lamu",
+                "Candidate Surname": "Kamau",
+                "Candidate Other Names": "Joseph Githuku",
+                "Party Code": "27",
+                "Political Party Name": "Jubilee Party",
+                "Abbreviation": "JP",
+                "Abbreviation Enhanced": "JP",
+                "Party Code Enhanced": "27"
+            },
+            {
+                "County Code": "5",
+                "County Name": "Lamu",
+                "Candidate Surname": "Loitiptip",
+                "Candidate Other Names": "Anuar",
+                "Party Code": "Ind",
+                "Political Party Name": "Independent",
+                "Abbreviation": "IND",
+                "Abbreviation Enhanced": "IND_SEN5_01",
+                "Party Code Enhanced": "IND_SEN5_01"
+            },
+            {
+                "County Code": "5",
+                "County Name": "Lamu",
+                "Candidate Surname": "Mbaruk",
+                "Candidate Other Names": "Khamis Nassor",
+                "Party Code": "33",
+                "Political Party Name": "Kenya African National Union",
+                "Abbreviation": "KANU",
+                "Abbreviation Enhanced": "KANU",
+                "Party Code Enhanced": "33"
+            },
+            {
+                "County Code": "5",
+                "County Name": "Lamu",
+                "Candidate Surname": "Mohamed",
+                "Candidate Other Names": "Abudi Omar",
+                "Party Code": "12",
+                "Political Party Name": "Wiper Democratic Movement- Kenya",
+                "Abbreviation": "WDM",
+                "Abbreviation Enhanced": "WDM",
+                "Party Code Enhanced": "12"
+            },
+            {
+                "County Code": "5",
+                "County Name": "Lamu",
+                "Candidate Surname": "Mugo",
+                "Candidate Other Names": "Francis Kariuki",
+                "Party Code": "15",
+                "Political Party Name": "United Democratic Alliance",
+                "Abbreviation": "UDA",
+                "Abbreviation Enhanced": "UDA",
+                "Party Code Enhanced": "15"
+            }
+        ],
+        "6": [
+            {
+                "County Code": "6",
+                "County Name": "Taita Taveta",
+                "Candidate Surname": "Banton",
+                "Candidate Other Names": "Hamisi Mike",
+                "Party Code": "Ind",
+                "Political Party Name": "Independent",
+                "Abbreviation": "IND",
+                "Abbreviation Enhanced": "IND_SEN6_01",
+                "Party Code Enhanced": "IND_SEN6_01"
+            },
+            {
+                "County Code": "6",
+                "County Name": "Taita Taveta",
+                "Candidate Surname": "Mbogho",
+                "Candidate Other Names": "Enock Mwachala",
+                "Party Code": "30",
+                "Political Party Name": "Kenya African Democratic Union-Asili",
+                "Abbreviation": "KADU-ASILI",
+                "Abbreviation Enhanced": "KADU-ASILI",
+                "Party Code Enhanced": "30"
+            },
+            {
+                "County Code": "6",
+                "County Name": "Taita Taveta",
+                "Candidate Surname": "Mwachofi",
+                "Candidate Other Names": "John Righa",
+                "Party Code": "15",
+                "Political Party Name": "United Democratic Alliance",
+                "Abbreviation": "UDA",
+                "Abbreviation Enhanced": "UDA",
+                "Party Code Enhanced": "15"
+            },
+            {
+                "County Code": "6",
+                "County Name": "Taita Taveta",
+                "Candidate Surname": "Mwadeghu",
+                "Candidate Other Names": "Thomas Ludindi",
+                "Party Code": "12",
+                "Political Party Name": "Wiper Democratic Movement- Kenya",
+                "Abbreviation": "WDM",
+                "Abbreviation Enhanced": "WDM",
+                "Party Code Enhanced": "12"
+            },
+            {
+                "County Code": "6",
+                "County Name": "Taita Taveta",
+                "Candidate Surname": "Mwamodo",
+                "Candidate Other Names": "Godwin Kilele",
+                "Party Code": "27",
+                "Political Party Name": "Jubilee Party",
+                "Abbreviation": "JP",
+                "Abbreviation Enhanced": "JP",
+                "Party Code Enhanced": "27"
+            },
+            {
+                "County Code": "6",
+                "County Name": "Taita Taveta",
+                "Candidate Surname": "Mwandawiro",
+                "Candidate Other Names": "Julius Mghanga",
+                "Party Code": "32",
+                "Political Party Name": "Communist Party Of Kenya",
+                "Abbreviation": "CPK",
+                "Abbreviation Enhanced": "CPK",
+                "Party Code Enhanced": "32"
+            },
+            {
+                "County Code": "6",
+                "County Name": "Taita Taveta",
+                "Candidate Surname": "Mwaruma",
+                "Candidate Other Names": "Johnes Mwashushe",
+                "Party Code": "21",
+                "Political Party Name": "Orange Democratic Movement",
+                "Abbreviation": "ODM",
+                "Abbreviation Enhanced": "ODM",
+                "Party Code Enhanced": "21"
+            },
+            {
+                "County Code": "6",
+                "County Name": "Taita Taveta",
+                "Candidate Surname": "Njumwa",
+                "Candidate Other Names": "Stephen Saleka",
+                "Party Code": "62",
+                "Political Party Name": "Amani National Congress",
+                "Abbreviation": "ANC",
+                "Abbreviation Enhanced": "ANC",
+                "Party Code Enhanced": "62"
+            },
+            {
+                "County Code": "6",
+                "County Name": "Taita Taveta",
+                "Candidate Surname": "Nyambu",
+                "Candidate Other Names": "Anna Kina",
+                "Party Code": "38",
+                "Political Party Name": "Peoples Empowerment Party",
+                "Abbreviation": "PEP",
+                "Abbreviation Enhanced": "PEP",
+                "Party Code Enhanced": "38"
+            },
+            {
+                "County Code": "6",
+                "County Name": "Taita Taveta",
+                "Candidate Surname": "Okwemba",
+                "Candidate Other Names": "Stephen Oddiaga",
+                "Party Code": "50",
+                "Political Party Name": "Muungano Party",
+                "Abbreviation": "MUUNGANO",
+                "Abbreviation Enhanced": "MUUNGANO",
+                "Party Code Enhanced": "50"
+            }
+        ],
+        "7": [
+            {
+                "County Code": "7",
+                "County Name": "Garissa",
+                "Candidate Surname": "Abdi",
+                "Candidate Other Names": "Ahmedrashid Koriyow",
+                "Party Code": "12",
+                "Political Party Name": "Wiper Democratic Movement- Kenya",
+                "Abbreviation": "WDM",
+                "Abbreviation Enhanced": "WDM",
+                "Party Code Enhanced": "12"
+            },
+            {
+                "County Code": "7",
+                "County Name": "Garissa",
+                "Candidate Surname": "Abdi",
+                "Candidate Other Names": "Yussuf Issa",
+                "Party Code": "41",
+                "Political Party Name": "United Democratic Movement",
+                "Abbreviation": "UDM",
+                "Abbreviation Enhanced": "UDM",
+                "Party Code Enhanced": "41"
+            },
+            {
+                "County Code": "7",
+                "County Name": "Garissa",
+                "Candidate Surname": "Aden",
+                "Candidate Other Names": "Hussein Bare",
+                "Party Code": "34",
+                "Political Party Name": "Safina",
+                "Abbreviation": "SAFINA",
+                "Abbreviation Enhanced": "SAFINA",
+                "Party Code Enhanced": "34"
+            },
+            {
+                "County Code": "7",
+                "County Name": "Garissa",
+                "Candidate Surname": "Dabar",
+                "Candidate Other Names": "Daud Adan",
+                "Party Code": "79",
+                "Political Party Name": "United Green Movement",
+                "Abbreviation": "UGM",
+                "Abbreviation Enhanced": "UGM",
+                "Party Code Enhanced": "79"
+            },
+            {
+                "County Code": "7",
+                "County Name": "Garissa",
+                "Candidate Surname": "Haji",
+                "Candidate Other Names": "Abdulkadir Mohammed",
+                "Party Code": "27",
+                "Political Party Name": "Jubilee Party",
+                "Abbreviation": "JP",
+                "Abbreviation Enhanced": "JP",
+                "Party Code Enhanced": "27"
+            },
+            {
+                "County Code": "7",
+                "County Name": "Garissa",
+                "Candidate Surname": "Mohamed",
+                "Candidate Other Names": "Khalid Ali",
+                "Party Code": "84",
+                "Political Party Name": "National Reconstruction Alliance",
+                "Abbreviation": "NRA",
+                "Abbreviation Enhanced": "NRA",
+                "Party Code Enhanced": "84"
+            },
+            {
+                "County Code": "7",
+                "County Name": "Garissa",
+                "Candidate Surname": "Shalle",
+                "Candidate Other Names": "Mohammed Issack",
+                "Party Code": "23",
+                "Political Party Name": "Forum For Restoration Of Democracy-Kenya",
+                "Abbreviation": "FORD-KENYA",
+                "Abbreviation Enhanced": "FORD-KENYA",
+                "Party Code Enhanced": "23"
+            },
+            {
+                "County Code": "7",
+                "County Name": "Garissa",
+                "Candidate Surname": "Shide",
+                "Candidate Other Names": "Abubakar Mohamed",
+                "Party Code": "81",
+                "Political Party Name": "United Progressive Alliance",
+                "Abbreviation": "UPA",
+                "Abbreviation Enhanced": "UPA",
+                "Party Code Enhanced": "81"
+            }
+        ],
+        "8": [
+            {
+                "County Code": "8",
+                "County Name": "Wajir",
+                "Candidate Surname": "Abakar",
+                "Candidate Other Names": "Adow Mohammed",
+                "Party Code": "64",
+                "Political Party Name": "United Democratic Party",
+                "Abbreviation": "UDP",
+                "Abbreviation Enhanced": "UDP",
+                "Party Code Enhanced": "64"
+            },
+            {
+                "County Code": "8",
+                "County Name": "Wajir",
+                "Candidate Surname": "Abdikadir",
+                "Candidate Other Names": "Abdirahman Adan",
+                "Party Code": "46",
+                "Political Party Name": "United Party Of Independent Alliance",
+                "Abbreviation": "UPIA",
+                "Abbreviation Enhanced": "UPIA",
+                "Party Code Enhanced": "46"
+            },
+            {
+                "County Code": "8",
+                "County Name": "Wajir",
+                "Candidate Surname": "Abdirahaman",
+                "Candidate Other Names": "Ibrahim Mohamud",
+                "Party Code": "33",
+                "Political Party Name": "Kenya African National Union",
+                "Abbreviation": "KANU",
+                "Abbreviation Enhanced": "KANU",
+                "Party Code Enhanced": "33"
+            },
+            {
+                "County Code": "8",
+                "County Name": "Wajir",
+                "Candidate Surname": "Aden",
+                "Candidate Other Names": "Mohamed Daud",
+                "Party Code": "75",
+                "Political Party Name": "Empowerment And Liberation Party",
+                "Abbreviation": "ELP",
+                "Abbreviation Enhanced": "ELP",
+                "Party Code Enhanced": "75"
+            },
+            {
+                "County Code": "8",
+                "County Name": "Wajir",
+                "Candidate Surname": "Ahmed",
+                "Candidate Other Names": "Noor Aden",
+                "Party Code": "62",
+                "Political Party Name": "Amani National Congress",
+                "Abbreviation": "ANC",
+                "Abbreviation Enhanced": "ANC",
+                "Party Code Enhanced": "62"
+            },
+            {
+                "County Code": "8",
+                "County Name": "Wajir",
+                "Candidate Surname": "Ahmed",
+                "Candidate Other Names": "Omar Adan",
+                "Party Code": "12",
+                "Political Party Name": "Wiper Democratic Movement- Kenya",
+                "Abbreviation": "WDM",
+                "Abbreviation Enhanced": "WDM",
+                "Party Code Enhanced": "12"
+            },
+            {
+                "County Code": "8",
+                "County Name": "Wajir",
+                "Candidate Surname": "Durow",
+                "Candidate Other Names": "Abdikadir Ahmed",
+                "Party Code": "1",
+                "Political Party Name": "National Rainbow Coalition-Kenya",
+                "Abbreviation": "NARC-KENYA",
+                "Abbreviation Enhanced": "NARC-KENYA",
+                "Party Code Enhanced": "1"
+            },
+            {
+                "County Code": "8",
+                "County Name": "Wajir",
+                "Candidate Surname": "Enow",
+                "Candidate Other Names": "Adan Omar",
+                "Party Code": "27",
+                "Political Party Name": "Jubilee Party",
+                "Abbreviation": "JP",
+                "Abbreviation Enhanced": "JP",
+                "Party Code Enhanced": "27"
+            },
+            {
+                "County Code": "8",
+                "County Name": "Wajir",
+                "Candidate Surname": "Maalim",
+                "Candidate Other Names": "Abdirahaman Ali",
+                "Party Code": "21",
+                "Political Party Name": "Orange Democratic Movement",
+                "Abbreviation": "ODM",
+                "Abbreviation Enhanced": "ODM",
+                "Party Code Enhanced": "21"
+            },
+            {
+                "County Code": "8",
+                "County Name": "Wajir",
+                "Candidate Surname": "Mohamed",
+                "Candidate Other Names": "Abass Sheikh",
+                "Party Code": "41",
+                "Political Party Name": "United Democratic Movement",
+                "Abbreviation": "UDM",
+                "Abbreviation Enhanced": "UDM",
+                "Party Code Enhanced": "41"
+            },
+            {
+                "County Code": "8",
+                "County Name": "Wajir",
+                "Candidate Surname": "Yahya",
+                "Candidate Other Names": "Shallow Abdullahi",
+                "Party Code": "15",
+                "Political Party Name": "United Democratic Alliance",
+                "Abbreviation": "UDA",
+                "Abbreviation Enhanced": "UDA",
+                "Party Code Enhanced": "15"
+            }
+        ],
+        "9": [
+            {
+                "County Code": "9",
+                "County Name": "Mandera",
+                "Candidate Surname": "Abdullah",
+                "Candidate Other Names": "Adan Maalim",
+                "Party Code": "21",
+                "Political Party Name": "Orange Democratic Movement",
+                "Abbreviation": "ODM",
+                "Abbreviation Enhanced": "ODM",
+                "Party Code Enhanced": "21"
+            },
+            {
+                "County Code": "9",
+                "County Name": "Mandera",
+                "Candidate Surname": "Adan",
+                "Candidate Other Names": "Said Mohamed",
+                "Party Code": "46",
+                "Political Party Name": "United Party Of Independent Alliance",
+                "Abbreviation": "UPIA",
+                "Abbreviation Enhanced": "UPIA",
+                "Party Code Enhanced": "46"
+            },
+            {
+                "County Code": "9",
+                "County Name": "Mandera",
+                "Candidate Surname": "Ali",
+                "Candidate Other Names": "Ibrahim Mohamed",
+                "Party Code": "Ind",
+                "Political Party Name": "Independent",
+                "Abbreviation": "IND",
+                "Abbreviation Enhanced": "IND_SEN9_01",
+                "Party Code Enhanced": "IND_SEN9_01"
+            },
+            {
+                "County Code": "9",
+                "County Name": "Mandera",
+                "Candidate Surname": "Chulu",
+                "Candidate Other Names": "Ibrahim Mohamed Alio",
+                "Party Code": "27",
+                "Political Party Name": "Jubilee Party",
+                "Abbreviation": "JP",
+                "Abbreviation Enhanced": "JP",
+                "Party Code Enhanced": "27"
+            },
+            {
+                "County Code": "9",
+                "County Name": "Mandera",
+                "Candidate Surname": "Hache",
+                "Candidate Other Names": "Hassan Issack",
+                "Party Code": "15",
+                "Political Party Name": "United Democratic Alliance",
+                "Abbreviation": "UDA",
+                "Abbreviation Enhanced": "UDA",
+                "Party Code Enhanced": "15"
+            },
+            {
+                "County Code": "9",
+                "County Name": "Mandera",
+                "Candidate Surname": "Mahamud",
+                "Candidate Other Names": "Mohamed Maalim",
+                "Party Code": "Ind",
+                "Political Party Name": "Independent",
+                "Abbreviation": "IND",
+                "Abbreviation Enhanced": "IND_SEN9_02",
+                "Party Code Enhanced": "IND_SEN9_02"
+            },
+            {
+                "County Code": "9",
+                "County Name": "Mandera",
+                "Candidate Surname": "Roba",
+                "Candidate Other Names": "Ali Ibrahim",
+                "Party Code": "41",
+                "Political Party Name": "United Democratic Movement",
+                "Abbreviation": "UDM",
+                "Abbreviation Enhanced": "UDM",
+                "Party Code Enhanced": "41"
+            }
+        ],
+        "10": [
+            {
+                "County Code": "10",
+                "County Name": "Marsabit",
+                "Candidate Surname": "Abagaro",
+                "Candidate Other Names": "Galgallo Wako",
+                "Party Code": "62",
+                "Political Party Name": "Amani National Congress",
+                "Abbreviation": "ANC",
+                "Abbreviation Enhanced": "ANC",
+                "Party Code Enhanced": "62"
+            },
+            {
+                "County Code": "10",
+                "County Name": "Marsabit",
+                "Candidate Surname": "Chute",
+                "Candidate Other Names": "Mohamed Said",
+                "Party Code": "15",
+                "Political Party Name": "United Democratic Alliance",
+                "Abbreviation": "UDA",
+                "Abbreviation Enhanced": "UDA",
+                "Party Code Enhanced": "15"
+            },
+            {
+                "County Code": "10",
+                "County Name": "Marsabit",
+                "Candidate Surname": "Esintele",
+                "Candidate Other Names": "Allyce Kureiya",
+                "Party Code": "46",
+                "Political Party Name": "United Party Of Independent Alliance",
+                "Abbreviation": "UPIA",
+                "Abbreviation Enhanced": "UPIA",
+                "Party Code Enhanced": "46"
+            },
+            {
+                "County Code": "10",
+                "County Name": "Marsabit",
+                "Candidate Surname": "Hargura",
+                "Candidate Other Names": "Godana",
+                "Party Code": "41",
+                "Political Party Name": "United Democratic Movement",
+                "Abbreviation": "UDM",
+                "Abbreviation Enhanced": "UDM",
+                "Party Code Enhanced": "41"
+            },
+            {
+                "County Code": "10",
+                "County Name": "Marsabit",
+                "Candidate Surname": "Sele",
+                "Candidate Other Names": "Adan Hassan Sheik",
+                "Party Code": "33",
+                "Political Party Name": "Kenya African National Union",
+                "Abbreviation": "KANU",
+                "Abbreviation Enhanced": "KANU",
+                "Party Code Enhanced": "33"
+            }
+        ],
+        "11": [
+            {
+                "County Code": "11",
+                "County Name": "Isiolo",
+                "Candidate Surname": "Fatuma",
+                "Candidate Other Names": "Dullo Adan",
+                "Party Code": "27",
+                "Political Party Name": "Jubilee Party",
+                "Abbreviation": "JP",
+                "Abbreviation Enhanced": "JP",
+                "Party Code Enhanced": "27"
+            },
+            {
+                "County Code": "11",
+                "County Name": "Isiolo",
+                "Candidate Surname": "Huka",
+                "Candidate Other Names": "Ahmed Adan",
+                "Party Code": "32",
+                "Political Party Name": "Communist Party Of Kenya",
+                "Abbreviation": "CPK",
+                "Abbreviation Enhanced": "CPK",
+                "Party Code Enhanced": "32"
+            },
+            {
+                "County Code": "11",
+                "County Name": "Isiolo",
+                "Candidate Surname": "Issa",
+                "Candidate Other Names": "Abdi Ibrahim",
+                "Party Code": "14",
+                "Political Party Name": "Party Of National Unity",
+                "Abbreviation": "PNU",
+                "Abbreviation Enhanced": "PNU",
+                "Party Code Enhanced": "14"
+            },
+            {
+                "County Code": "11",
+                "County Name": "Isiolo",
+                "Candidate Surname": "Lokitela",
+                "Candidate Other Names": "Augostino Ikiara",
+                "Party Code": "65",
+                "Political Party Name": "Kenya Reform Party",
+                "Abbreviation": "KRP",
+                "Abbreviation Enhanced": "KRP",
+                "Party Code Enhanced": "65"
+            },
+            {
+                "County Code": "11",
+                "County Name": "Isiolo",
+                "Candidate Surname": "Mohamed",
+                "Candidate Other Names": "Nuh Ibrahim",
+                "Party Code": "Ind",
+                "Political Party Name": "Independent",
+                "Abbreviation": "IND",
+                "Abbreviation Enhanced": "IND_SEN11_01",
+                "Party Code Enhanced": "IND_SEN11_01"
+            },
+            {
+                "County Code": "11",
+                "County Name": "Isiolo",
+                "Candidate Surname": "Roba",
+                "Candidate Other Names": "Hussein Halake",
+                "Party Code": "33",
+                "Political Party Name": "Kenya African National Union",
+                "Abbreviation": "KANU",
+                "Abbreviation Enhanced": "KANU",
+                "Party Code Enhanced": "33"
+            }
+        ],
+        "12": [
+            {
+                "County Code": "12",
+                "County Name": "Meru",
+                "Candidate Surname": "Arimba",
+                "Candidate Other Names": "Joseph Kaberia",
+                "Party Code": "Ind",
+                "Political Party Name": "Independent",
+                "Abbreviation": "IND",
+                "Abbreviation Enhanced": "IND_SEN12_01",
+                "Party Code Enhanced": "IND_SEN12_01"
+            },
+            {
+                "County Code": "12",
+                "County Name": "Meru",
+                "Candidate Surname": "Gituma",
+                "Candidate Other Names": "Rosemary Kinanu",
+                "Party Code": "33",
+                "Political Party Name": "Kenya African National Union",
+                "Abbreviation": "KANU",
+                "Abbreviation Enhanced": "KANU",
+                "Party Code Enhanced": "33"
+            },
+            {
+                "County Code": "12",
+                "County Name": "Meru",
+                "Candidate Surname": "John",
+                "Candidate Other Names": "Mburuki",
+                "Party Code": "Ind",
+                "Political Party Name": "Independent",
+                "Abbreviation": "IND",
+                "Abbreviation Enhanced": "IND_SEN12_02",
+                "Party Code Enhanced": "IND_SEN12_02"
+            },
+            {
+                "County Code": "12",
+                "County Name": "Meru",
+                "Candidate Surname": "Kathuri",
+                "Candidate Other Names": "Murungi",
+                "Party Code": "15",
+                "Political Party Name": "United Democratic Alliance",
+                "Abbreviation": "UDA",
+                "Abbreviation Enhanced": "UDA",
+                "Party Code Enhanced": "15"
+            },
+            {
+                "County Code": "12",
+                "County Name": "Meru",
+                "Candidate Surname": "Kirera",
+                "Candidate Other Names": "Muthomi Jacob",
+                "Party Code": "Ind",
+                "Political Party Name": "Independent",
+                "Abbreviation": "IND",
+                "Abbreviation Enhanced": "IND_SEN12_03",
+                "Party Code Enhanced": "IND_SEN12_03"
+            },
+            {
+                "County Code": "12",
+                "County Name": "Meru",
+                "Candidate Surname": "Kirima",
+                "Candidate Other Names": "Mary Muthoni",
+                "Party Code": "34",
+                "Political Party Name": "Safina",
+                "Abbreviation": "SAFINA",
+                "Abbreviation Enhanced": "SAFINA",
+                "Party Code Enhanced": "34"
+            },
+            {
+                "County Code": "12",
+                "County Name": "Meru",
+                "Candidate Surname": "Marete",
+                "Candidate Other Names": "Isaack Kinoti",
+                "Party Code": "Ind",
+                "Political Party Name": "Independent",
+                "Abbreviation": "IND",
+                "Abbreviation Enhanced": "IND_SEN12_04",
+                "Party Code Enhanced": "IND_SEN12_04"
+            },
+            {
+                "County Code": "12",
+                "County Name": "Meru",
+                "Candidate Surname": "Mitheu",
+                "Candidate Other Names": "Godfrey Mwiti",
+                "Party Code": "Ind",
+                "Political Party Name": "Independent",
+                "Abbreviation": "IND",
+                "Abbreviation Enhanced": "IND_SEN12_05",
+                "Party Code Enhanced": "IND_SEN12_05"
+            },
+            {
+                "County Code": "12",
+                "County Name": "Meru",
+                "Candidate Surname": "Mithika",
+                "Candidate Other Names": "James",
+                "Party Code": "27",
+                "Political Party Name": "Jubilee Party",
+                "Abbreviation": "JP",
+                "Abbreviation Enhanced": "JP",
+                "Party Code Enhanced": "27"
+            },
+            {
+                "County Code": "12",
+                "County Name": "Meru",
+                "Candidate Surname": "Mutuma",
+                "Candidate Other Names": "Thuranira Salesio",
+                "Party Code": "Ind",
+                "Political Party Name": "Independent",
+                "Abbreviation": "IND",
+                "Abbreviation Enhanced": "IND_SEN12_06",
+                "Party Code Enhanced": "IND_SEN12_06"
+            }
+        ],
+        "13": [
+            {
+                "County Code": "13",
+                "County Name": "Tharaka - Nithi",
+                "Candidate Surname": "Makunyi",
+                "Candidate Other Names": "Paul Mugambi",
+                "Party Code": "27",
+                "Political Party Name": "Jubilee Party",
+                "Abbreviation": "JP",
+                "Abbreviation Enhanced": "JP",
+                "Party Code Enhanced": "27"
+            },
+            {
+                "County Code": "13",
+                "County Name": "Tharaka - Nithi",
+                "Candidate Surname": "Muturi",
+                "Candidate Other Names": "Wilfred Kirimi",
+                "Party Code": "86",
+                "Political Party Name": "Party For Peace And Development",
+                "Abbreviation": "PPD",
+                "Abbreviation Enhanced": "PPD",
+                "Party Code Enhanced": "86"
+            },
+            {
+                "County Code": "13",
+                "County Name": "Tharaka - Nithi",
+                "Candidate Surname": "Mwenda",
+                "Candidate Other Names": "Julius Gataya",
+                "Party Code": "15",
+                "Political Party Name": "United Democratic Alliance",
+                "Abbreviation": "UDA",
+                "Abbreviation Enhanced": "UDA",
+                "Party Code Enhanced": "15"
+            },
+            {
+                "County Code": "13",
+                "County Name": "Tharaka - Nithi",
+                "Candidate Surname": "Ragwa",
+                "Candidate Other Names": "Samwel Mbae",
+                "Party Code": "Ind",
+                "Political Party Name": "Independent",
+                "Abbreviation": "IND",
+                "Abbreviation Enhanced": "IND_SEN13_01",
+                "Party Code Enhanced": "IND_SEN13_01"
+            }
+        ],
+        "14": [
+            {
+                "County Code": "14",
+                "County Name": "Embu",
+                "Candidate Surname": "January",
+                "Candidate Other Names": "Bernard Njeru Wa",
+                "Party Code": "33",
+                "Political Party Name": "Kenya African National Union",
+                "Abbreviation": "KANU",
+                "Abbreviation Enhanced": "KANU",
+                "Party Code Enhanced": "33"
+            },
+            {
+                "County Code": "14",
+                "County Name": "Embu",
+                "Candidate Surname": "Karani",
+                "Candidate Other Names": "Fridah Wanjiku",
+                "Party Code": "82",
+                "Political Party Name": "The Service Party",
+                "Abbreviation": "TSP",
+                "Abbreviation Enhanced": "TSP",
+                "Party Code Enhanced": "82"
+            },
+            {
+                "County Code": "14",
+                "County Name": "Embu",
+                "Candidate Surname": "Kithu",
+                "Candidate Other Names": "John Njeru",
+                "Party Code": "1",
+                "Political Party Name": "National Rainbow Coalition-Kenya",
+                "Abbreviation": "NARC-KENYA",
+                "Abbreviation Enhanced": "NARC-KENYA",
+                "Party Code Enhanced": "1"
+            },
+            {
+                "County Code": "14",
+                "County Name": "Embu",
+                "Candidate Surname": "Mbogo",
+                "Candidate Other Names": "Lillian Wanja Muthoni",
+                "Party Code": "27",
+                "Political Party Name": "Jubilee Party",
+                "Abbreviation": "JP",
+                "Abbreviation Enhanced": "JP",
+                "Party Code Enhanced": "27"
+            },
+            {
+                "County Code": "14",
+                "County Name": "Embu",
+                "Candidate Surname": "Mundigi",
+                "Candidate Other Names": "Alexander Munyi",
+                "Party Code": "13",
+                "Political Party Name": "Democratic Party Of Kenya",
+                "Abbreviation": "DP",
+                "Abbreviation Enhanced": "DP",
+                "Party Code Enhanced": "13"
+            },
+            {
+                "County Code": "14",
+                "County Name": "Embu",
+                "Candidate Surname": "Ndwiga",
+                "Candidate Other Names": "Josphat Mugendi",
+                "Party Code": "80",
+                "Political Party Name": "Usawa Kwa Wote Party",
+                "Abbreviation": "USAWA",
+                "Abbreviation Enhanced": "USAWA",
+                "Party Code Enhanced": "80"
+            },
+            {
+                "County Code": "14",
+                "County Name": "Embu",
+                "Candidate Surname": "Ndwiga",
+                "Candidate Other Names": "Peter Njeru",
+                "Party Code": "Ind",
+                "Political Party Name": "Independent",
+                "Abbreviation": "IND",
+                "Abbreviation Enhanced": "IND_SEN14_01",
+                "Party Code Enhanced": "IND_SEN14_01"
+            },
+            {
+                "County Code": "14",
+                "County Name": "Embu",
+                "Candidate Surname": "Njeru",
+                "Candidate Other Names": "David Kariuki",
+                "Party Code": "15",
+                "Political Party Name": "United Democratic Alliance",
+                "Abbreviation": "UDA",
+                "Abbreviation Enhanced": "UDA",
+                "Party Code Enhanced": "15"
+            },
+            {
+                "County Code": "14",
+                "County Name": "Embu",
+                "Candidate Surname": "Njeru",
+                "Candidate Other Names": "Stephen Nyaga",
+                "Party Code": "62",
+                "Political Party Name": "Amani National Congress",
+                "Abbreviation": "ANC",
+                "Abbreviation Enhanced": "ANC",
+                "Party Code Enhanced": "62"
+            },
+            {
+                "County Code": "14",
+                "County Name": "Embu",
+                "Candidate Surname": "Nyagah",
+                "Candidate Other Names": "Norman M G K",
+                "Party Code": "Ind",
+                "Political Party Name": "Independent",
+                "Abbreviation": "IND",
+                "Abbreviation Enhanced": "IND_SEN14_02",
+                "Party Code Enhanced": "IND_SEN14_02"
+            },
+            {
+                "County Code": "14",
+                "County Name": "Embu",
+                "Candidate Surname": "Wambora",
+                "Candidate Other Names": "Martin Nyaga",
+                "Party Code": "45",
+                "Political Party Name": "Umoja Na Maendeleo Party",
+                "Abbreviation": "UMP",
+                "Abbreviation Enhanced": "UMP",
+                "Party Code Enhanced": "45"
+            },
+            {
+                "County Code": "14",
+                "County Name": "Embu",
+                "Candidate Surname": "Wamuuru",
+                "Candidate Other Names": "Moses",
+                "Party Code": "21",
+                "Political Party Name": "Orange Democratic Movement",
+                "Abbreviation": "ODM",
+                "Abbreviation Enhanced": "ODM",
+                "Party Code Enhanced": "21"
+            }
+        ],
+        "15": [
+            {
+                "County Code": "15",
+                "County Name": "Kitui",
+                "Candidate Surname": "Kalumbo",
+                "Candidate Other Names": "Frederick Isika",
+                "Party Code": "21",
+                "Political Party Name": "Orange Democratic Movement",
+                "Abbreviation": "ODM",
+                "Abbreviation Enhanced": "ODM",
+                "Party Code Enhanced": "21"
+            },
+            {
+                "County Code": "15",
+                "County Name": "Kitui",
+                "Candidate Surname": "Kameta",
+                "Candidate Other Names": "Dorcas Mwende",
+                "Party Code": "27",
+                "Political Party Name": "Jubilee Party",
+                "Abbreviation": "JP",
+                "Abbreviation Enhanced": "JP",
+                "Party Code Enhanced": "27"
+            },
+            {
+                "County Code": "15",
+                "County Name": "Kitui",
+                "Candidate Surname": "Kilonzo",
+                "Candidate Other Names": "Stephen Mutua",
+                "Party Code": "15",
+                "Political Party Name": "United Democratic Alliance",
+                "Abbreviation": "UDA",
+                "Abbreviation Enhanced": "UDA",
+                "Party Code Enhanced": "15"
+            },
+            {
+                "County Code": "15",
+                "County Name": "Kitui",
+                "Candidate Surname": "Makonge",
+                "Candidate Other Names": "Stephen Kyalo Musango",
+                "Party Code": "Ind",
+                "Political Party Name": "Independent",
+                "Abbreviation": "IND",
+                "Abbreviation Enhanced": "IND_SEN15_01",
+                "Party Code Enhanced": "IND_SEN15_01"
+            },
+            {
+                "County Code": "15",
+                "County Name": "Kitui",
+                "Candidate Surname": "Mati",
+                "Candidate Other Names": "Wilfred Nyamu",
+                "Party Code": "67",
+                "Political Party Name": "Maendeleo Chap Chap Party",
+                "Abbreviation": "MCCP",
+                "Abbreviation Enhanced": "MCCP",
+                "Party Code Enhanced": "67"
+            },
+            {
+                "County Code": "15",
+                "County Name": "Kitui",
+                "Candidate Surname": "Mutambuki",
+                "Candidate Other Names": "Benjamin Muithya",
+                "Party Code": "13",
+                "Political Party Name": "Democratic Party Of Kenya",
+                "Abbreviation": "DP",
+                "Abbreviation Enhanced": "DP",
+                "Party Code Enhanced": "13"
+            },
+            {
+                "County Code": "15",
+                "County Name": "Kitui",
+                "Candidate Surname": "Mutiisya",
+                "Candidate Other Names": "Ravaspaul Kyalo",
+                "Party Code": "62",
+                "Political Party Name": "Amani National Congress",
+                "Abbreviation": "ANC",
+                "Abbreviation Enhanced": "ANC",
+                "Party Code Enhanced": "62"
+            },
+            {
+                "County Code": "15",
+                "County Name": "Kitui",
+                "Candidate Surname": "Mutukaa",
+                "Candidate Other Names": "Julius Muinde",
+                "Party Code": "29",
+                "Political Party Name": "National Rainbow Coalition",
+                "Abbreviation": "NARC",
+                "Abbreviation Enhanced": "NARC",
+                "Party Code Enhanced": "29"
+            },
+            {
+                "County Code": "15",
+                "County Name": "Kitui",
+                "Candidate Surname": "Wambua",
+                "Candidate Other Names": "Enoch Kiio",
+                "Party Code": "12",
+                "Political Party Name": "Wiper Democratic Movement- Kenya",
+                "Abbreviation": "WDM",
+                "Abbreviation Enhanced": "WDM",
+                "Party Code Enhanced": "12"
+            }
+        ],
+        "16": [
+            {
+                "County Code": "16",
+                "County Name": "Machakos",
+                "Candidate Surname": "Katuku",
+                "Candidate Other Names": "John Mutua",
+                "Party Code": "66",
+                "Political Party Name": "Peoples Trust Party",
+                "Abbreviation": "PTP",
+                "Abbreviation Enhanced": "PTP",
+                "Party Code Enhanced": "66"
+            },
+            {
+                "County Code": "16",
+                "County Name": "Machakos",
+                "Candidate Surname": "Kilonzo",
+                "Candidate Other Names": "Charles Mutavi",
+                "Party Code": "Ind",
+                "Political Party Name": "Independent",
+                "Abbreviation": "IND",
+                "Abbreviation Enhanced": "IND_SEN16_01",
+                "Party Code Enhanced": "IND_SEN16_01"
+            },
+            {
+                "County Code": "16",
+                "County Name": "Machakos",
+                "Candidate Surname": "Mbaluka",
+                "Candidate Other Names": "Joel Kyatha",
+                "Party Code": "15",
+                "Political Party Name": "United Democratic Alliance",
+                "Abbreviation": "UDA",
+                "Abbreviation Enhanced": "UDA",
+                "Party Code Enhanced": "15"
+            },
+            {
+                "County Code": "16",
+                "County Name": "Machakos",
+                "Candidate Surname": "Mungata",
+                "Candidate Other Names": "Benard Muteti",
+                "Party Code": "67",
+                "Political Party Name": "Maendeleo Chap Chap Party",
+                "Abbreviation": "MCCP",
+                "Abbreviation Enhanced": "MCCP",
+                "Party Code Enhanced": "67"
+            },
+            {
+                "County Code": "16",
+                "County Name": "Machakos",
+                "Candidate Surname": "Muthama",
+                "Candidate Other Names": "Agnes Kavindu Mbuku",
+                "Party Code": "12",
+                "Political Party Name": "Wiper Democratic Movement- Kenya",
+                "Abbreviation": "WDM",
+                "Abbreviation Enhanced": "WDM",
+                "Party Code Enhanced": "12"
+            },
+            {
+                "County Code": "16",
+                "County Name": "Machakos",
+                "Candidate Surname": "Mwikya",
+                "Candidate Other Names": "Maureen Ndungwa",
+                "Party Code": "27",
+                "Political Party Name": "Jubilee Party",
+                "Abbreviation": "JP",
+                "Abbreviation Enhanced": "JP",
+                "Party Code Enhanced": "27"
+            },
+            {
+                "County Code": "16",
+                "County Name": "Machakos",
+                "Candidate Surname": "Ngengele",
+                "Candidate Other Names": "Urbanus Mutunga Muthama",
+                "Party Code": "21",
+                "Political Party Name": "Orange Democratic Movement",
+                "Abbreviation": "ODM",
+                "Abbreviation Enhanced": "ODM",
+                "Party Code Enhanced": "21"
+            },
+            {
+                "County Code": "16",
+                "County Name": "Machakos",
+                "Candidate Surname": "Nyalita",
+                "Candidate Other Names": "Angela Mwikali",
+                "Party Code": "80",
+                "Political Party Name": "Usawa Kwa Wote Party",
+                "Abbreviation": "USAWA",
+                "Abbreviation Enhanced": "USAWA",
+                "Party Code Enhanced": "80"
+            }
+        ],
+        "17": [
+            {
+                "County Code": "17",
+                "County Name": "Makueni",
+                "Candidate Surname": "Kibwana",
+                "Candidate Other Names": "Kivutha",
+                "Party Code": "50",
+                "Political Party Name": "Muungano Party",
+                "Abbreviation": "MUUNGANO",
+                "Abbreviation Enhanced": "MUUNGANO",
+                "Party Code Enhanced": "50"
+            },
+            {
+                "County Code": "17",
+                "County Name": "Makueni",
+                "Candidate Surname": "Kioko",
+                "Candidate Other Names": "Victoria Nzisa",
+                "Party Code": "21",
+                "Political Party Name": "Orange Democratic Movement",
+                "Abbreviation": "ODM",
+                "Abbreviation Enhanced": "ODM",
+                "Party Code Enhanced": "21"
+            },
+            {
+                "County Code": "17",
+                "County Name": "Makueni",
+                "Candidate Surname": "Kisyula",
+                "Candidate Other Names": "Robert Mue",
+                "Party Code": "15",
+                "Political Party Name": "United Democratic Alliance",
+                "Abbreviation": "UDA",
+                "Abbreviation Enhanced": "UDA",
+                "Party Code Enhanced": "15"
+            },
+            {
+                "County Code": "17",
+                "County Name": "Makueni",
+                "Candidate Surname": "Maanzo",
+                "Candidate Other Names": "Daniel Kitonga",
+                "Party Code": "12",
+                "Political Party Name": "Wiper Democratic Movement- Kenya",
+                "Abbreviation": "WDM",
+                "Abbreviation Enhanced": "WDM",
+                "Party Code Enhanced": "12"
+            },
+            {
+                "County Code": "17",
+                "County Name": "Makueni",
+                "Candidate Surname": "Malika",
+                "Candidate Other Names": "Patrick Mbau",
+                "Party Code": "1",
+                "Political Party Name": "National Rainbow Coalition-Kenya",
+                "Abbreviation": "NARC-KENYA",
+                "Abbreviation Enhanced": "NARC-KENYA",
+                "Party Code Enhanced": "1"
+            },
+            {
+                "County Code": "17",
+                "County Name": "Makueni",
+                "Candidate Surname": "Ndiliku",
+                "Candidate Other Names": "Florence Nzula",
+                "Party Code": "27",
+                "Political Party Name": "Jubilee Party",
+                "Abbreviation": "JP",
+                "Abbreviation Enhanced": "JP",
+                "Party Code Enhanced": "27"
+            }
+        ],
+        "18": [
+            {
+                "County Code": "18",
+                "County Name": "Nyandarua",
+                "Candidate Surname": "Kanagi",
+                "Candidate Other Names": "Samuel Kimamira",
+                "Party Code": "1",
+                "Political Party Name": "National Rainbow Coalition-Kenya",
+                "Abbreviation": "NARC-KENYA",
+                "Abbreviation Enhanced": "NARC-KENYA",
+                "Party Code Enhanced": "1"
+            },
+            {
+                "County Code": "18",
+                "County Name": "Nyandarua",
+                "Candidate Surname": "Kanyingi",
+                "Candidate Other Names": "Simon Waweru",
+                "Party Code": "27",
+                "Political Party Name": "Jubilee Party",
+                "Abbreviation": "JP",
+                "Abbreviation Enhanced": "JP",
+                "Party Code Enhanced": "27"
+            },
+            {
+                "County Code": "18",
+                "County Name": "Nyandarua",
+                "Candidate Surname": "Kanyita",
+                "Candidate Other Names": "Julius Macharia",
+                "Party Code": "82",
+                "Political Party Name": "The Service Party",
+                "Abbreviation": "TSP",
+                "Abbreviation Enhanced": "TSP",
+                "Party Code Enhanced": "82"
+            },
+            {
+                "County Code": "18",
+                "County Name": "Nyandarua",
+                "Candidate Surname": "Kimani",
+                "Candidate Other Names": "Joseph Kamau",
+                "Party Code": "56",
+                "Political Party Name": "Forum For Republican Democracy",
+                "Abbreviation": "FORD",
+                "Abbreviation Enhanced": "FORD",
+                "Party Code Enhanced": "56"
+            },
+            {
+                "County Code": "18",
+                "County Name": "Nyandarua",
+                "Candidate Surname": "Methu",
+                "Candidate Other Names": "John Muhia",
+                "Party Code": "15",
+                "Political Party Name": "United Democratic Alliance",
+                "Abbreviation": "UDA",
+                "Abbreviation Enhanced": "UDA",
+                "Party Code Enhanced": "15"
+            },
+            {
+                "County Code": "18",
+                "County Name": "Nyandarua",
+                "Candidate Surname": "Mukua",
+                "Candidate Other Names": "Daniel Macharia",
+                "Party Code": "87",
+                "Political Party Name": "Chama Cha Kazi",
+                "Abbreviation": "KAZI",
+                "Abbreviation Enhanced": "KAZI",
+                "Party Code Enhanced": "87"
+            },
+            {
+                "County Code": "18",
+                "County Name": "Nyandarua",
+                "Candidate Surname": "Mwangi",
+                "Candidate Other Names": "Paul Githiomi",
+                "Party Code": "Ind",
+                "Political Party Name": "Independent",
+                "Abbreviation": "IND",
+                "Abbreviation Enhanced": "IND_SEN18_01",
+                "Party Code Enhanced": "IND_SEN18_01"
+            },
+            {
+                "County Code": "18",
+                "County Name": "Nyandarua",
+                "Candidate Surname": "Theuri",
+                "Candidate Other Names": "John Kinyanjui",
+                "Party Code": "Ind",
+                "Political Party Name": "Independent",
+                "Abbreviation": "IND",
+                "Abbreviation Enhanced": "IND_SEN18_02",
+                "Party Code Enhanced": "IND_SEN18_02"
+            }
+        ],
+        "19": [
+            {
+                "County Code": "19",
+                "County Name": "Nyeri",
+                "Candidate Surname": "Kabando",
+                "Candidate Other Names": "Kabando Wa",
+                "Party Code": "1",
+                "Political Party Name": "National Rainbow Coalition-Kenya",
+                "Abbreviation": "NARC-KENYA",
+                "Abbreviation Enhanced": "NARC-KENYA",
+                "Party Code Enhanced": "1"
+            },
+            {
+                "County Code": "19",
+                "County Name": "Nyeri",
+                "Candidate Surname": "Kanyua",
+                "Candidate Other Names": "Priscilla Nyokabi",
+                "Party Code": "27",
+                "Political Party Name": "Jubilee Party",
+                "Abbreviation": "JP",
+                "Abbreviation Enhanced": "JP",
+                "Party Code Enhanced": "27"
+            },
+            {
+                "County Code": "19",
+                "County Name": "Nyeri",
+                "Candidate Surname": "Nyamu",
+                "Candidate Other Names": "Wambugu",
+                "Party Code": "13",
+                "Political Party Name": "Democratic Party Of Kenya",
+                "Abbreviation": "DP",
+                "Abbreviation Enhanced": "DP",
+                "Party Code Enhanced": "13"
+            },
+            {
+                "County Code": "19",
+                "County Name": "Nyeri",
+                "Candidate Surname": "Waithanji",
+                "Candidate Other Names": "Mercy F T",
+                "Party Code": "Ind",
+                "Political Party Name": "Independent",
+                "Abbreviation": "IND",
+                "Abbreviation Enhanced": "IND_SEN19_01",
+                "Party Code Enhanced": "IND_SEN19_01"
+            },
+            {
+                "County Code": "19",
+                "County Name": "Nyeri",
+                "Candidate Surname": "Wamatinga",
+                "Candidate Other Names": "Wahome",
+                "Party Code": "15",
+                "Political Party Name": "United Democratic Alliance",
+                "Abbreviation": "UDA",
+                "Abbreviation Enhanced": "UDA",
+                "Party Code Enhanced": "15"
+            }
+        ],
+        "20": [
+            {
+                "County Code": "20",
+                "County Name": "Kirinyaga",
+                "Candidate Surname": "Dickson",
+                "Candidate Other Names": "Daniel Karaba",
+                "Party Code": "27",
+                "Political Party Name": "Jubilee Party",
+                "Abbreviation": "JP",
+                "Abbreviation Enhanced": "JP",
+                "Party Code Enhanced": "27"
+            },
+            {
+                "County Code": "20",
+                "County Name": "Kirinyaga",
+                "Candidate Surname": "Jane",
+                "Candidate Other Names": "Anthony Murigu",
+                "Party Code": "1",
+                "Political Party Name": "National Rainbow Coalition-Kenya",
+                "Abbreviation": "NARC-KENYA",
+                "Abbreviation Enhanced": "NARC-KENYA",
+                "Party Code Enhanced": "1"
+            },
+            {
+                "County Code": "20",
+                "County Name": "Kirinyaga",
+                "Candidate Surname": "Karimi",
+                "Candidate Other Names": "Anthony Gitari",
+                "Party Code": "Ind",
+                "Political Party Name": "Independent",
+                "Abbreviation": "IND",
+                "Abbreviation Enhanced": "IND_SEN20_01",
+                "Party Code Enhanced": "IND_SEN20_01"
+            },
+            {
+                "County Code": "20",
+                "County Name": "Kirinyaga",
+                "Candidate Surname": "Karubiu",
+                "Candidate Other Names": "James Karimi",
+                "Party Code": "13",
+                "Political Party Name": "Democratic Party Of Kenya",
+                "Abbreviation": "DP",
+                "Abbreviation Enhanced": "DP",
+                "Party Code Enhanced": "13"
+            },
+            {
+                "County Code": "20",
+                "County Name": "Kirinyaga",
+                "Candidate Surname": "Kathanga",
+                "Candidate Other Names": "Peter Gachoki",
+                "Party Code": "34",
+                "Political Party Name": "Safina",
+                "Abbreviation": "SAFINA",
+                "Abbreviation Enhanced": "SAFINA",
+                "Party Code Enhanced": "34"
+            },
+            {
+                "County Code": "20",
+                "County Name": "Kirinyaga",
+                "Candidate Surname": "Mithamo",
+                "Candidate Other Names": "Florence Wangui",
+                "Party Code": "86",
+                "Political Party Name": "Party For Peace And Development",
+                "Abbreviation": "PPD",
+                "Abbreviation Enhanced": "PPD",
+                "Party Code Enhanced": "86"
+            },
+            {
+                "County Code": "20",
+                "County Name": "Kirinyaga",
+                "Candidate Surname": "Murango",
+                "Candidate Other Names": "James Kamau",
+                "Party Code": "15",
+                "Political Party Name": "United Democratic Alliance",
+                "Abbreviation": "UDA",
+                "Abbreviation Enhanced": "UDA",
+                "Party Code Enhanced": "15"
+            }
+        ],
+        "21": [
+            {
+                "County Code": "21",
+                "County Name": "Murang'a",
+                "Candidate Surname": "Gitura",
+                "Candidate Other Names": "James Kembi",
+                "Party Code": "27",
+                "Political Party Name": "Jubilee Party",
+                "Abbreviation": "JP",
+                "Abbreviation Enhanced": "JP",
+                "Party Code Enhanced": "27"
+            },
+            {
+                "County Code": "21",
+                "County Name": "Murang'a",
+                "Candidate Surname": "Kigia",
+                "Candidate Other Names": "Hellen Ndiko",
+                "Party Code": "47",
+                "Political Party Name": "Farmers Party",
+                "Abbreviation": "FP",
+                "Abbreviation Enhanced": "FP",
+                "Party Code Enhanced": "47"
+            },
+            {
+                "County Code": "21",
+                "County Name": "Murang'a",
+                "Candidate Surname": "Mwangi",
+                "Candidate Other Names": "Comfort Waitherero",
+                "Party Code": "33",
+                "Political Party Name": "Kenya African National Union",
+                "Abbreviation": "KANU",
+                "Abbreviation Enhanced": "KANU",
+                "Party Code Enhanced": "33"
+            },
+            {
+                "County Code": "21",
+                "County Name": "Murang'a",
+                "Candidate Surname": "Nganga",
+                "Candidate Other Names": "Boniface Ndegwa",
+                "Party Code": "34",
+                "Political Party Name": "Safina",
+                "Abbreviation": "SAFINA",
+                "Abbreviation Enhanced": "SAFINA",
+                "Party Code Enhanced": "34"
+            },
+            {
+                "County Code": "21",
+                "County Name": "Murang'a",
+                "Candidate Surname": "Ngugi",
+                "Candidate Other Names": "Joe Joseph Nyutu",
+                "Party Code": "15",
+                "Political Party Name": "United Democratic Alliance",
+                "Abbreviation": "UDA",
+                "Abbreviation Enhanced": "UDA",
+                "Party Code Enhanced": "15"
+            },
+            {
+                "County Code": "21",
+                "County Name": "Murang'a",
+                "Candidate Surname": "Wambui",
+                "Candidate Other Names": "Pius Kinuthia",
+                "Party Code": "21",
+                "Political Party Name": "Orange Democratic Movement",
+                "Abbreviation": "ODM",
+                "Abbreviation Enhanced": "ODM",
+                "Party Code Enhanced": "21"
+            }
+        ],
+        "22": [
+            {
+                "County Code": "22",
+                "County Name": "Kiambu",
+                "Candidate Surname": "Carolyne",
+                "Candidate Other Names": "Kigunda Makena",
+                "Party Code": "9",
+                "Political Party Name": "Kenya National Congress",
+                "Abbreviation": "KNC",
+                "Abbreviation Enhanced": "KNC",
+                "Party Code Enhanced": "9"
+            },
+            {
+                "County Code": "22",
+                "County Name": "Kiambu",
+                "Candidate Surname": "Gathekia",
+                "Candidate Other Names": "Alice Wangari",
+                "Party Code": "88",
+                "Political Party Name": "Tujibebe Wakenya Party",
+                "Abbreviation": "JIBEBE",
+                "Abbreviation Enhanced": "JIBEBE",
+                "Party Code Enhanced": "88"
+            },
+            {
+                "County Code": "22",
+                "County Name": "Kiambu",
+                "Candidate Surname": "Maara",
+                "Candidate Other Names": "George Jonathan",
+                "Party Code": "27",
+                "Political Party Name": "Jubilee Party",
+                "Abbreviation": "JP",
+                "Abbreviation Enhanced": "JP",
+                "Party Code Enhanced": "27"
+            },
+            {
+                "County Code": "22",
+                "County Name": "Kiambu",
+                "Candidate Surname": "Mugwe",
+                "Candidate Other Names": "John Gathigi",
+                "Party Code": "Ind",
+                "Political Party Name": "Independent",
+                "Abbreviation": "IND",
+                "Abbreviation Enhanced": "IND_SEN22_01",
+                "Party Code Enhanced": "IND_SEN22_01"
+            },
+            {
+                "County Code": "22",
+                "County Name": "Kiambu",
+                "Candidate Surname": "Waikenda",
+                "Candidate Other Names": "Machel T Karanja",
+                "Party Code": "87",
+                "Political Party Name": "Chama Cha Kazi",
+                "Abbreviation": "KAZI",
+                "Abbreviation Enhanced": "KAZI",
+                "Party Code Enhanced": "87"
+            },
+            {
+                "County Code": "22",
+                "County Name": "Kiambu",
+                "Candidate Surname": "Wangongu",
+                "Candidate Other Names": "George Njoroge",
+                "Party Code": "34",
+                "Political Party Name": "Safina",
+                "Abbreviation": "SAFINA",
+                "Abbreviation Enhanced": "SAFINA",
+                "Party Code Enhanced": "34"
+            },
+            {
+                "County Code": "22",
+                "County Name": "Kiambu",
+                "Candidate Surname": "Wanjiru",
+                "Candidate Other Names": "Joseph Kamau",
+                "Party Code": "80",
+                "Political Party Name": "Usawa Kwa Wote Party",
+                "Abbreviation": "USAWA",
+                "Abbreviation Enhanced": "USAWA",
+                "Party Code Enhanced": "80"
+            }
+        ],
+        "23": [
+            {
+                "County Code": "23",
+                "County Name": "Turkana",
+                "Candidate Surname": "Apetet",
+                "Candidate Other Names": "Jane Nashida",
+                "Party Code": "34",
+                "Political Party Name": "Safina",
+                "Abbreviation": "SAFINA",
+                "Abbreviation Enhanced": "SAFINA",
+                "Party Code Enhanced": "34"
+            },
+            {
+                "County Code": "23",
+                "County Name": "Turkana",
+                "Candidate Surname": "Bernard",
+                "Candidate Other Names": "Epakan Kebo",
+                "Party Code": "68",
+                "Political Party Name": "Democratic Congress",
+                "Abbreviation": "DC",
+                "Abbreviation Enhanced": "DC",
+                "Party Code Enhanced": "68"
+            },
+            {
+                "County Code": "23",
+                "County Name": "Turkana",
+                "Candidate Surname": "Charles",
+                "Candidate Other Names": "Malachy Ekal Imana",
+                "Party Code": "12",
+                "Political Party Name": "Wiper Democratic Movement- Kenya",
+                "Abbreviation": "WDM",
+                "Abbreviation Enhanced": "WDM",
+                "Party Code Enhanced": "12"
+            },
+            {
+                "County Code": "23",
+                "County Name": "Turkana",
+                "Candidate Surname": "Ekomwa",
+                "Candidate Other Names": "James Lomenen",
+                "Party Code": "27",
+                "Political Party Name": "Jubilee Party",
+                "Abbreviation": "JP",
+                "Abbreviation Enhanced": "JP",
+                "Party Code Enhanced": "27"
+            },
+            {
+                "County Code": "23",
+                "County Name": "Turkana",
+                "Candidate Surname": "Ewoton",
+                "Candidate Other Names": "Pius Atok",
+                "Party Code": "Ind",
+                "Political Party Name": "Independent",
+                "Abbreviation": "IND",
+                "Abbreviation Enhanced": "IND_SEN23_01",
+                "Party Code Enhanced": "IND_SEN23_01"
+            },
+            {
+                "County Code": "23",
+                "County Name": "Turkana",
+                "Candidate Surname": "Imoni",
+                "Candidate Other Names": "Joseph Ekalale",
+                "Party Code": "21",
+                "Political Party Name": "Orange Democratic Movement",
+                "Abbreviation": "ODM",
+                "Abbreviation Enhanced": "ODM",
+                "Party Code Enhanced": "21"
+            },
+            {
+                "County Code": "23",
+                "County Name": "Turkana",
+                "Candidate Surname": "Lokamar",
+                "Candidate Other Names": "Benedict Edapal",
+                "Party Code": "15",
+                "Political Party Name": "United Democratic Alliance",
+                "Abbreviation": "UDA",
+                "Abbreviation Enhanced": "UDA",
+                "Party Code Enhanced": "15"
+            },
+            {
+                "County Code": "23",
+                "County Name": "Turkana",
+                "Candidate Surname": "Lomulen",
+                "Candidate Other Names": "Peter Lokol",
+                "Party Code": "14",
+                "Political Party Name": "Party Of National Unity",
+                "Abbreviation": "PNU",
+                "Abbreviation Enhanced": "PNU",
+                "Party Code Enhanced": "14"
+            },
+            {
+                "County Code": "23",
+                "County Name": "Turkana",
+                "Candidate Surname": "Ng'asike",
+                "Candidate Other Names": "Philemon Ong'ao",
+                "Party Code": "85",
+                "Political Party Name": "Democratic Action Party-Kenya",
+                "Abbreviation": "DAP-K",
+                "Abbreviation Enhanced": "DAP-K",
+                "Party Code Enhanced": "85"
+            }
+        ],
+        "24": [
+            {
+                "County Code": "24",
+                "County Name": "West Pokot",
+                "Candidate Surname": "Kapchok",
+                "Candidate Other Names": "Dennis Ruto William",
+                "Party Code": "34",
+                "Political Party Name": "Safina",
+                "Abbreviation": "SAFINA",
+                "Abbreviation Enhanced": "SAFINA",
+                "Party Code Enhanced": "34"
+            },
+            {
+                "County Code": "24",
+                "County Name": "West Pokot",
+                "Candidate Surname": "Lipale",
+                "Candidate Other Names": "Geoffrey",
+                "Party Code": "89",
+                "Political Party Name": "Kenya Union Party",
+                "Abbreviation": "KUP",
+                "Abbreviation Enhanced": "KUP",
+                "Party Code Enhanced": "89"
+            },
+            {
+                "County Code": "24",
+                "County Name": "West Pokot",
+                "Candidate Surname": "Poghisio",
+                "Candidate Other Names": "Samuel Losuron",
+                "Party Code": "33",
+                "Political Party Name": "Kenya African National Union",
+                "Abbreviation": "KANU",
+                "Abbreviation Enhanced": "KANU",
+                "Party Code Enhanced": "33"
+            },
+            {
+                "County Code": "24",
+                "County Name": "West Pokot",
+                "Candidate Surname": "Recha",
+                "Candidate Other Names": "Julius Murgor",
+                "Party Code": "15",
+                "Political Party Name": "United Democratic Alliance",
+                "Abbreviation": "UDA",
+                "Abbreviation Enhanced": "UDA",
+                "Party Code Enhanced": "15"
+            }
+        ],
+        "25": [
+            {
+                "County Code": "25",
+                "County Name": "Samburu",
+                "Candidate Surname": "Lelegwe",
+                "Candidate Other Names": "Steve Ltumbesi",
+                "Party Code": "15",
+                "Political Party Name": "United Democratic Alliance",
+                "Abbreviation": "UDA",
+                "Abbreviation Enhanced": "UDA",
+                "Party Code Enhanced": "15"
+            },
+            {
+                "County Code": "25",
+                "County Name": "Samburu",
+                "Candidate Surname": "Lenkolos",
+                "Candidate Other Names": "Lkitonga",
+                "Party Code": "27",
+                "Political Party Name": "Jubilee Party",
+                "Abbreviation": "JP",
+                "Abbreviation Enhanced": "JP",
+                "Party Code Enhanced": "27"
+            },
+            {
+                "County Code": "25",
+                "County Name": "Samburu",
+                "Candidate Surname": "Leparachau",
+                "Candidate Other Names": "Joshua Sambiyen",
+                "Party Code": "13",
+                "Political Party Name": "Democratic Party Of Kenya",
+                "Abbreviation": "DP",
+                "Abbreviation Enhanced": "DP",
+                "Party Code Enhanced": "13"
+            },
+            {
+                "County Code": "25",
+                "County Name": "Samburu",
+                "Candidate Surname": "Lepariyo",
+                "Candidate Other Names": "Joseph Partamei",
+                "Party Code": "21",
+                "Political Party Name": "Orange Democratic Movement",
+                "Abbreviation": "ODM",
+                "Abbreviation Enhanced": "ODM",
+                "Party Code Enhanced": "21"
+            }
+        ],
+        "26": [
+            {
+                "County Code": "26",
+                "County Name": "Trans Nzoia",
+                "Candidate Surname": "Chemuigut",
+                "Candidate Other Names": "Peter Kiptanui",
+                "Party Code": "Ind",
+                "Political Party Name": "Independent",
+                "Abbreviation": "IND",
+                "Abbreviation Enhanced": "IND_SEN26_01",
+                "Party Code Enhanced": "IND_SEN26_01"
+            },
+            {
+                "County Code": "26",
+                "County Name": "Trans Nzoia",
+                "Candidate Surname": "Chesang",
+                "Candidate Other Names": "Allan Kiprotich",
+                "Party Code": "15",
+                "Political Party Name": "United Democratic Alliance",
+                "Abbreviation": "UDA",
+                "Abbreviation Enhanced": "UDA",
+                "Party Code Enhanced": "15"
+            },
+            {
+                "County Code": "26",
+                "County Name": "Trans Nzoia",
+                "Candidate Surname": "Maina",
+                "Candidate Other Names": "Teresia Wangare",
+                "Party Code": "Ind",
+                "Political Party Name": "Independent",
+                "Abbreviation": "IND",
+                "Abbreviation Enhanced": "IND_SEN26_02",
+                "Party Code Enhanced": "IND_SEN26_02"
+            },
+            {
+                "County Code": "26",
+                "County Name": "Trans Nzoia",
+                "Candidate Surname": "Masibo",
+                "Candidate Other Names": "Robert Simiyu",
+                "Party Code": "89",
+                "Political Party Name": "Kenya Union Party",
+                "Abbreviation": "KUP",
+                "Abbreviation Enhanced": "KUP",
+                "Party Code Enhanced": "89"
+            },
+            {
+                "County Code": "26",
+                "County Name": "Trans Nzoia",
+                "Candidate Surname": "Morei",
+                "Candidate Other Names": "Mercy Cheptoo",
+                "Party Code": "Ind",
+                "Political Party Name": "Independent",
+                "Abbreviation": "IND",
+                "Abbreviation Enhanced": "IND_SEN26_03",
+                "Party Code Enhanced": "IND_SEN26_03"
+            },
+            {
+                "County Code": "26",
+                "County Name": "Trans Nzoia",
+                "Candidate Surname": "Muchilwa",
+                "Candidate Other Names": "Jethrone Ayumba",
+                "Party Code": "Ind",
+                "Political Party Name": "Independent",
+                "Abbreviation": "IND",
+                "Abbreviation Enhanced": "IND_SEN26_04",
+                "Party Code Enhanced": "IND_SEN26_04"
+            },
+            {
+                "County Code": "26",
+                "County Name": "Trans Nzoia",
+                "Candidate Surname": "Muliro",
+                "Candidate Other Names": "Musoke Naburuku",
+                "Party Code": "21",
+                "Political Party Name": "Orange Democratic Movement",
+                "Abbreviation": "ODM",
+                "Abbreviation Enhanced": "ODM",
+                "Party Code Enhanced": "21"
+            },
+            {
+                "County Code": "26",
+                "County Name": "Trans Nzoia",
+                "Candidate Surname": "Ndiema",
+                "Candidate Other Names": "Henry Tiole",
+                "Party Code": "23",
+                "Political Party Name": "Forum For Restoration Of Democracy-Kenya",
+                "Abbreviation": "FORD-KENYA",
+                "Abbreviation Enhanced": "FORD-KENYA",
+                "Party Code Enhanced": "23"
+            },
+            {
+                "County Code": "26",
+                "County Name": "Trans Nzoia",
+                "Candidate Surname": "Okore",
+                "Candidate Other Names": "Dendrick Okech",
+                "Party Code": "27",
+                "Political Party Name": "Jubilee Party",
+                "Abbreviation": "JP",
+                "Abbreviation Enhanced": "JP",
+                "Party Code Enhanced": "27"
+            },
+            {
+                "County Code": "26",
+                "County Name": "Trans Nzoia",
+                "Candidate Surname": "Wakoli",
+                "Candidate Other Names": "Martin Bulimo",
+                "Party Code": "62",
+                "Political Party Name": "Amani National Congress",
+                "Abbreviation": "ANC",
+                "Abbreviation Enhanced": "ANC",
+                "Party Code Enhanced": "62"
+            },
+            {
+                "County Code": "26",
+                "County Name": "Trans Nzoia",
+                "Candidate Surname": "Werunga",
+                "Candidate Other Names": "Joshua Mutoto",
+                "Party Code": "85",
+                "Political Party Name": "Democratic Action Party-Kenya",
+                "Abbreviation": "DAP-K",
+                "Abbreviation Enhanced": "DAP-K",
+                "Party Code Enhanced": "85"
+            },
+            {
+                "County Code": "26",
+                "County Name": "Trans Nzoia",
+                "Candidate Surname": "Yego",
+                "Candidate Other Names": "Helen J  C",
+                "Party Code": "54",
+                "Political Party Name": "Chama Cha Mashinani",
+                "Abbreviation": "CCM",
+                "Abbreviation Enhanced": "CCM",
+                "Party Code Enhanced": "54"
+            }
+        ],
+        "27": [
+            {
+                "County Code": "27",
+                "County Name": "Uasin Gishu",
+                "Candidate Surname": "Kemei",
+                "Candidate Other Names": "Robert Rotich",
+                "Party Code": "Ind",
+                "Political Party Name": "Independent",
+                "Abbreviation": "IND",
+                "Abbreviation Enhanced": "IND_SEN27_01",
+                "Party Code Enhanced": "IND_SEN27_01"
+            },
+            {
+                "County Code": "27",
+                "County Name": "Uasin Gishu",
+                "Candidate Surname": "Mandago",
+                "Candidate Other Names": "Jackson Kiplagat",
+                "Party Code": "15",
+                "Political Party Name": "United Democratic Alliance",
+                "Abbreviation": "UDA",
+                "Abbreviation Enhanced": "UDA",
+                "Party Code Enhanced": "15"
+            }
+        ],
+        "28": [
+            {
+                "County Code": "28",
+                "County Name": "Elgeyo Marakwet",
+                "Candidate Surname": "Kipruto",
+                "Candidate Other Names": "Kipkosgei",
+                "Party Code": "Ind",
+                "Political Party Name": "Independent",
+                "Abbreviation": "IND",
+                "Abbreviation Enhanced": "IND_SEN28_01",
+                "Party Code Enhanced": "IND_SEN28_01"
+            },
+            {
+                "County Code": "28",
+                "County Name": "Elgeyo Marakwet",
+                "Candidate Surname": "Marrirmoi",
+                "Candidate Other Names": "Hillary Kiprop Rutto",
+                "Party Code": "Ind",
+                "Political Party Name": "Independent",
+                "Abbreviation": "IND",
+                "Abbreviation Enhanced": "IND_SEN28_02",
+                "Party Code Enhanced": "IND_SEN28_02"
+            },
+            {
+                "County Code": "28",
+                "County Name": "Elgeyo Marakwet",
+                "Candidate Surname": "Murkomen",
+                "Candidate Other Names": "Onesimus Kipchumba",
+                "Party Code": "15",
+                "Political Party Name": "United Democratic Alliance",
+                "Abbreviation": "UDA",
+                "Abbreviation Enhanced": "UDA",
+                "Party Code Enhanced": "15"
+            },
+            {
+                "County Code": "28",
+                "County Name": "Elgeyo Marakwet",
+                "Candidate Surname": "Tolgos",
+                "Candidate Other Names": "Alex Tanui",
+                "Party Code": "27",
+                "Political Party Name": "Jubilee Party",
+                "Abbreviation": "JP",
+                "Abbreviation Enhanced": "JP",
+                "Party Code Enhanced": "27"
+            },
+            {
+                "County Code": "28",
+                "County Name": "Elgeyo Marakwet",
+                "Candidate Surname": "Yego",
+                "Candidate Other Names": "Peter Kaino",
+                "Party Code": "Ind",
+                "Political Party Name": "Independent",
+                "Abbreviation": "IND",
+                "Abbreviation Enhanced": "IND_SEN28_03",
+                "Party Code Enhanced": "IND_SEN28_03"
+            }
+        ],
+        "29": [
+            {
+                "County Code": "29",
+                "County Name": "Nandi",
+                "Candidate Surname": "Kirwa",
+                "Candidate Other Names": "Mark",
+                "Party Code": "27",
+                "Political Party Name": "Jubilee Party",
+                "Abbreviation": "JP",
+                "Abbreviation Enhanced": "JP",
+                "Party Code Enhanced": "27"
+            },
+            {
+                "County Code": "29",
+                "County Name": "Nandi",
+                "Candidate Surname": "Samson",
+                "Candidate Other Names": "Cherarkey K",
+                "Party Code": "15",
+                "Political Party Name": "United Democratic Alliance",
+                "Abbreviation": "UDA",
+                "Abbreviation Enhanced": "UDA",
+                "Party Code Enhanced": "15"
+            }
+        ],
+        "30": [
+            {
+                "County Code": "30",
+                "County Name": "Baringo",
+                "Candidate Surname": "Chelaite",
+                "Candidate Other Names": "Felix Kiprono",
+                "Party Code": "82",
+                "Political Party Name": "The Service Party",
+                "Abbreviation": "TSP",
+                "Abbreviation Enhanced": "TSP",
+                "Party Code Enhanced": "82"
+            },
+            {
+                "County Code": "30",
+                "County Name": "Baringo",
+                "Candidate Surname": "Kipkiror",
+                "Candidate Other Names": "William Cheptumo",
+                "Party Code": "15",
+                "Political Party Name": "United Democratic Alliance",
+                "Abbreviation": "UDA",
+                "Abbreviation Enhanced": "UDA",
+                "Party Code Enhanced": "15"
+            },
+            {
+                "County Code": "30",
+                "County Name": "Baringo",
+                "Candidate Surname": "Moi",
+                "Candidate Other Names": "Gideon Kipsielei T",
+                "Party Code": "33",
+                "Political Party Name": "Kenya African National Union",
+                "Abbreviation": "KANU",
+                "Abbreviation Enhanced": "KANU",
+                "Party Code Enhanced": "33"
+            }
+        ],
+        "31": [
+            {
+                "County Code": "31",
+                "County Name": "Laikipia",
+                "Candidate Surname": "Githinji",
+                "Candidate Other Names": "John Kiama",
+                "Party Code": "82",
+                "Political Party Name": "The Service Party",
+                "Abbreviation": "TSP",
+                "Abbreviation Enhanced": "TSP",
+                "Party Code Enhanced": "82"
+            },
+            {
+                "County Code": "31",
+                "County Name": "Laikipia",
+                "Candidate Surname": "Kamunya",
+                "Candidate Other Names": "John Maina Njenga",
+                "Party Code": "33",
+                "Political Party Name": "Kenya African National Union",
+                "Abbreviation": "KANU",
+                "Abbreviation Enhanced": "KANU",
+                "Party Code Enhanced": "33"
+            },
+            {
+                "County Code": "31",
+                "County Name": "Laikipia",
+                "Candidate Surname": "Kimani",
+                "Candidate Other Names": "Henry Mbuthia",
+                "Party Code": "87",
+                "Political Party Name": "Chama Cha Kazi",
+                "Abbreviation": "KAZI",
+                "Abbreviation Enhanced": "KAZI",
+                "Party Code Enhanced": "87"
+            },
+            {
+                "County Code": "31",
+                "County Name": "Laikipia",
+                "Candidate Surname": "Mamaiyo",
+                "Candidate Other Names": "Julius Orumoi",
+                "Party Code": "21",
+                "Political Party Name": "Orange Democratic Movement",
+                "Abbreviation": "ODM",
+                "Abbreviation Enhanced": "ODM",
+                "Party Code Enhanced": "21"
+            },
+            {
+                "County Code": "31",
+                "County Name": "Laikipia",
+                "Candidate Surname": "Mwangi",
+                "Candidate Other Names": "Sam Thuita",
+                "Party Code": "1",
+                "Political Party Name": "National Rainbow Coalition-Kenya",
+                "Abbreviation": "NARC-KENYA",
+                "Abbreviation Enhanced": "NARC-KENYA",
+                "Party Code Enhanced": "1"
+            },
+            {
+                "County Code": "31",
+                "County Name": "Laikipia",
+                "Candidate Surname": "Mwaniki",
+                "Candidate Other Names": "John Mathenge",
+                "Party Code": "27",
+                "Political Party Name": "Jubilee Party",
+                "Abbreviation": "JP",
+                "Abbreviation Enhanced": "JP",
+                "Party Code Enhanced": "27"
+            },
+            {
+                "County Code": "31",
+                "County Name": "Laikipia",
+                "Candidate Surname": "Nderitu",
+                "Candidate Other Names": "John Kinyua",
+                "Party Code": "15",
+                "Political Party Name": "United Democratic Alliance",
+                "Abbreviation": "UDA",
+                "Abbreviation Enhanced": "UDA",
+                "Party Code Enhanced": "15"
+            },
+            {
+                "County Code": "31",
+                "County Name": "Laikipia",
+                "Candidate Surname": "Ndung'u",
+                "Candidate Other Names": "Robert Maina",
+                "Party Code": "62",
+                "Political Party Name": "Amani National Congress",
+                "Abbreviation": "ANC",
+                "Abbreviation Enhanced": "ANC",
+                "Party Code Enhanced": "62"
+            },
+            {
+                "County Code": "31",
+                "County Name": "Laikipia",
+                "Candidate Surname": "Njeri",
+                "Candidate Other Names": "Stephen Chege",
+                "Party Code": "Ind",
+                "Political Party Name": "Independent",
+                "Abbreviation": "IND",
+                "Abbreviation Enhanced": "IND_SEN31_01",
+                "Party Code Enhanced": "IND_SEN31_01"
+            },
+            {
+                "County Code": "31",
+                "County Name": "Laikipia",
+                "Candidate Surname": "Thangii",
+                "Candidate Other Names": "Jackson Karuoya",
+                "Party Code": "Ind",
+                "Political Party Name": "Independent",
+                "Abbreviation": "IND",
+                "Abbreviation Enhanced": "IND_SEN31_02",
+                "Party Code Enhanced": "IND_SEN31_02"
+            }
+        ],
+        "32": [
+            {
+                "County Code": "32",
+                "County Name": "Nakuru",
+                "Candidate Surname": "Gachunga",
+                "Candidate Other Names": "Boniface Mwai",
+                "Party Code": "Ind",
+                "Political Party Name": "Independent",
+                "Abbreviation": "IND",
+                "Abbreviation Enhanced": "IND_SEN32_01",
+                "Party Code Enhanced": "IND_SEN32_01"
+            },
+            {
+                "County Code": "32",
+                "County Name": "Nakuru",
+                "Candidate Surname": "Gitau",
+                "Candidate Other Names": "Daniel Kimani",
+                "Party Code": "23",
+                "Political Party Name": "Forum For Restoration Of Democracy-Kenya",
+                "Abbreviation": "FORD-KENYA",
+                "Abbreviation Enhanced": "FORD-KENYA",
+                "Party Code Enhanced": "23"
+            },
+            {
+                "County Code": "32",
+                "County Name": "Nakuru",
+                "Candidate Surname": "Githenya",
+                "Candidate Other Names": "Abednego Mwangi",
+                "Party Code": "Ind",
+                "Political Party Name": "Independent",
+                "Abbreviation": "IND",
+                "Abbreviation Enhanced": "IND_SEN32_02",
+                "Party Code Enhanced": "IND_SEN32_02"
+            },
+            {
+                "County Code": "32",
+                "County Name": "Nakuru",
+                "Candidate Surname": "Karanja",
+                "Candidate Other Names": "Lawrence Macharia",
+                "Party Code": "27",
+                "Political Party Name": "Jubilee Party",
+                "Abbreviation": "JP",
+                "Abbreviation Enhanced": "JP",
+                "Party Code Enhanced": "27"
+            },
+            {
+                "County Code": "32",
+                "County Name": "Nakuru",
+                "Candidate Surname": "Keroche",
+                "Candidate Other Names": "Tabitha Karanja",
+                "Party Code": "15",
+                "Political Party Name": "United Democratic Alliance",
+                "Abbreviation": "UDA",
+                "Abbreviation Enhanced": "UDA",
+                "Party Code Enhanced": "15"
+            },
+            {
+                "County Code": "32",
+                "County Name": "Nakuru",
+                "Candidate Surname": "Macharia",
+                "Candidate Other Names": "Thomas Mwangi",
+                "Party Code": "Ind",
+                "Political Party Name": "Independent",
+                "Abbreviation": "IND",
+                "Abbreviation Enhanced": "IND_SEN32_03",
+                "Party Code Enhanced": "IND_SEN32_03"
+            },
+            {
+                "County Code": "32",
+                "County Name": "Nakuru",
+                "Candidate Surname": "Mututho",
+                "Candidate Other Names": "John Michael Njenga",
+                "Party Code": "21",
+                "Political Party Name": "Orange Democratic Movement",
+                "Abbreviation": "ODM",
+                "Abbreviation Enhanced": "ODM",
+                "Party Code Enhanced": "21"
+            },
+            {
+                "County Code": "32",
+                "County Name": "Nakuru",
+                "Candidate Surname": "Wa Wamwere",
+                "Candidate Other Names": "Koigi Wa",
+                "Party Code": "Ind",
+                "Political Party Name": "Independent",
+                "Abbreviation": "IND",
+                "Abbreviation Enhanced": "IND_SEN32_04",
+                "Party Code Enhanced": "IND_SEN32_04"
+            },
+            {
+                "County Code": "32",
+                "County Name": "Nakuru",
+                "Candidate Surname": "Wathimba",
+                "Candidate Other Names": "Crispus Anthony",
+                "Party Code": "Ind",
+                "Political Party Name": "Independent",
+                "Abbreviation": "IND",
+                "Abbreviation Enhanced": "IND_SEN32_05",
+                "Party Code Enhanced": "IND_SEN32_05"
+            },
+            {
+                "County Code": "32",
+                "County Name": "Nakuru",
+                "Candidate Surname": "Wechuli",
+                "Candidate Other Names": "Michael",
+                "Party Code": "62",
+                "Political Party Name": "Amani National Congress",
+                "Abbreviation": "ANC",
+                "Abbreviation Enhanced": "ANC",
+                "Party Code Enhanced": "62"
+            }
+        ],
+        "33": [
+            {
+                "County Code": "33",
+                "County Name": "Narok",
+                "Candidate Surname": "Bett",
+                "Candidate Other Names": "Chepkemoi Nelly",
+                "Party Code": "68",
+                "Political Party Name": "Democratic Congress",
+                "Abbreviation": "DC",
+                "Abbreviation Enhanced": "DC",
+                "Party Code Enhanced": "68"
+            },
+            {
+                "County Code": "33",
+                "County Name": "Narok",
+                "Candidate Surname": "Konchela",
+                "Candidate Other Names": "Gideon",
+                "Party Code": "27",
+                "Political Party Name": "Jubilee Party",
+                "Abbreviation": "JP",
+                "Abbreviation Enhanced": "JP",
+                "Party Code Enhanced": "27"
+            },
+            {
+                "County Code": "33",
+                "County Name": "Narok",
+                "Candidate Surname": "Lenard",
+                "Candidate Other Names": "Cheruiyot Kipkemoi",
+                "Party Code": "79",
+                "Political Party Name": "United Green Movement",
+                "Abbreviation": "UGM",
+                "Abbreviation Enhanced": "UGM",
+                "Party Code Enhanced": "79"
+            },
+            {
+                "County Code": "33",
+                "County Name": "Narok",
+                "Candidate Surname": "Luka",
+                "Candidate Other Names": "Jimmy Parnyumbe",
+                "Party Code": "Ind",
+                "Political Party Name": "Independent",
+                "Abbreviation": "IND",
+                "Abbreviation Enhanced": "IND_SEN33_01",
+                "Party Code Enhanced": "IND_SEN33_01"
+            },
+            {
+                "County Code": "33",
+                "County Name": "Narok",
+                "Candidate Surname": "Maloi",
+                "Candidate Other Names": "Godfrey Mapelu",
+                "Party Code": "83",
+                "Political Party Name": "National Ordinary Peoples Empowerment Union",
+                "Abbreviation": "NOPEU",
+                "Abbreviation Enhanced": "NOPEU",
+                "Party Code Enhanced": "83"
+            },
+            {
+                "County Code": "33",
+                "County Name": "Narok",
+                "Candidate Surname": "Nabaala",
+                "Candidate Other Names": "Kiranto Ole",
+                "Party Code": "82",
+                "Political Party Name": "The Service Party",
+                "Abbreviation": "TSP",
+                "Abbreviation Enhanced": "TSP",
+                "Party Code Enhanced": "82"
+            },
+            {
+                "County Code": "33",
+                "County Name": "Narok",
+                "Candidate Surname": "Olekina",
+                "Candidate Other Names": "Ledama",
+                "Party Code": "21",
+                "Political Party Name": "Orange Democratic Movement",
+                "Abbreviation": "ODM",
+                "Abbreviation Enhanced": "ODM",
+                "Party Code Enhanced": "21"
+            },
+            {
+                "County Code": "33",
+                "County Name": "Narok",
+                "Candidate Surname": "Ololdapash",
+                "Candidate Other Names": "Joel Meitamei",
+                "Party Code": "61",
+                "Political Party Name": "Ubuntu Peoples Forum",
+                "Abbreviation": "UPF",
+                "Abbreviation Enhanced": "UPF",
+                "Party Code Enhanced": "61"
+            },
+            {
+                "County Code": "33",
+                "County Name": "Narok",
+                "Candidate Surname": "Rotiken",
+                "Candidate Other Names": "Zakayo",
+                "Party Code": "Ind",
+                "Political Party Name": "Independent",
+                "Abbreviation": "IND",
+                "Abbreviation Enhanced": "IND_SEN33_02",
+                "Party Code Enhanced": "IND_SEN33_02"
+            },
+            {
+                "County Code": "33",
+                "County Name": "Narok",
+                "Candidate Surname": "Salaton",
+                "Candidate Other Names": "Tompo",
+                "Party Code": "Ind",
+                "Political Party Name": "Independent",
+                "Abbreviation": "IND",
+                "Abbreviation Enhanced": "IND_SEN33_03",
+                "Party Code Enhanced": "IND_SEN33_03"
+            },
+            {
+                "County Code": "33",
+                "County Name": "Narok",
+                "Candidate Surname": "Tunai",
+                "Candidate Other Names": "Samuel Kuntai",
+                "Party Code": "15",
+                "Political Party Name": "United Democratic Alliance",
+                "Abbreviation": "UDA",
+                "Abbreviation Enhanced": "UDA",
+                "Party Code Enhanced": "15"
+            }
+        ],
+        "34": [
+            {
+                "County Code": "34",
+                "County Name": "Kajiado",
+                "Candidate Surname": "Gitau",
+                "Candidate Other Names": "Tildah Sonia",
+                "Party Code": "80",
+                "Political Party Name": "Usawa Kwa Wote Party",
+                "Abbreviation": "USAWA",
+                "Abbreviation Enhanced": "USAWA",
+                "Party Code Enhanced": "80"
+            },
+            {
+                "County Code": "34",
+                "County Name": "Kajiado",
+                "Candidate Surname": "Nkeri",
+                "Candidate Other Names": "Simon Peter",
+                "Party Code": "82",
+                "Political Party Name": "The Service Party",
+                "Abbreviation": "TSP",
+                "Abbreviation Enhanced": "TSP",
+                "Party Code Enhanced": "82"
+            },
+            {
+                "County Code": "34",
+                "County Name": "Kajiado",
+                "Candidate Surname": "Pareno",
+                "Candidate Other Names": "Judith Nayiai Ramaita",
+                "Party Code": "21",
+                "Political Party Name": "Orange Democratic Movement",
+                "Abbreviation": "ODM",
+                "Abbreviation Enhanced": "ODM",
+                "Party Code Enhanced": "21"
+            },
+            {
+                "County Code": "34",
+                "County Name": "Kajiado",
+                "Candidate Surname": "Sakuda",
+                "Candidate Other Names": "Moses Somoine Ole",
+                "Party Code": "27",
+                "Political Party Name": "Jubilee Party",
+                "Abbreviation": "JP",
+                "Abbreviation Enhanced": "JP",
+                "Party Code Enhanced": "27"
+            },
+            {
+                "County Code": "34",
+                "County Name": "Kajiado",
+                "Candidate Surname": "Seki",
+                "Candidate Other Names": "Lenku Ole Kanar",
+                "Party Code": "15",
+                "Political Party Name": "United Democratic Alliance",
+                "Abbreviation": "UDA",
+                "Abbreviation Enhanced": "UDA",
+                "Party Code Enhanced": "15"
+            },
+            {
+                "County Code": "34",
+                "County Name": "Kajiado",
+                "Candidate Surname": "Toimasi",
+                "Candidate Other Names": "Gideon Loolkinyoki",
+                "Party Code": "12",
+                "Political Party Name": "Wiper Democratic Movement- Kenya",
+                "Abbreviation": "WDM",
+                "Abbreviation Enhanced": "WDM",
+                "Party Code Enhanced": "12"
+            }
+        ],
+        "35": [
+            {
+                "County Code": "35",
+                "County Name": "Kericho",
+                "Candidate Surname": "Chepkemoi",
+                "Candidate Other Names": "Queenas",
+                "Party Code": "Ind",
+                "Political Party Name": "Independent",
+                "Abbreviation": "IND",
+                "Abbreviation Enhanced": "IND_SEN35_01",
+                "Party Code Enhanced": "IND_SEN35_01"
+            },
+            {
+                "County Code": "35",
+                "County Name": "Kericho",
+                "Candidate Surname": "Cheruiyot",
+                "Candidate Other Names": "Aaron Kipkirui",
+                "Party Code": "15",
+                "Political Party Name": "United Democratic Alliance",
+                "Abbreviation": "UDA",
+                "Abbreviation Enhanced": "UDA",
+                "Party Code Enhanced": "15"
+            },
+            {
+                "County Code": "35",
+                "County Name": "Kericho",
+                "Candidate Surname": "Kirui",
+                "Candidate Other Names": "Don Kiprotich",
+                "Party Code": "Ind",
+                "Political Party Name": "Independent",
+                "Abbreviation": "IND",
+                "Abbreviation Enhanced": "IND_SEN35_02",
+                "Party Code Enhanced": "IND_SEN35_02"
+            }
+        ],
+        "36": [
+            {
+                "County Code": "36",
+                "County Name": "Bomet",
+                "Candidate Surname": "Kemei",
+                "Candidate Other Names": "Enock Cheruiyot",
+                "Party Code": "54",
+                "Political Party Name": "Chama Cha Mashinani",
+                "Abbreviation": "CCM",
+                "Abbreviation Enhanced": "CCM",
+                "Party Code Enhanced": "54"
+            },
+            {
+                "County Code": "36",
+                "County Name": "Bomet",
+                "Candidate Surname": "Korir",
+                "Candidate Other Names": "Kipkoech Weldon",
+                "Party Code": "62",
+                "Political Party Name": "Amani National Congress",
+                "Abbreviation": "ANC",
+                "Abbreviation Enhanced": "ANC",
+                "Party Code Enhanced": "62"
+            },
+            {
+                "County Code": "36",
+                "County Name": "Bomet",
+                "Candidate Surname": "Sigei",
+                "Candidate Other Names": "Wakili Hillary Kiprotich",
+                "Party Code": "15",
+                "Political Party Name": "United Democratic Alliance",
+                "Abbreviation": "UDA",
+                "Abbreviation Enhanced": "UDA",
+                "Party Code Enhanced": "15"
+            }
+        ],
+        "37": [
+            {
+                "County Code": "37",
+                "County Name": "Kakamega",
+                "Candidate Surname": "Abuti",
+                "Candidate Other Names": "Winfred Asiko",
+                "Party Code": "64",
+                "Political Party Name": "United Democratic Party",
+                "Abbreviation": "UDP",
+                "Abbreviation Enhanced": "UDP",
+                "Party Code Enhanced": "64"
+            },
+            {
+                "County Code": "37",
+                "County Name": "Kakamega",
+                "Candidate Surname": "Butichi",
+                "Candidate Other Names": "Patrick Masaviro",
+                "Party Code": "85",
+                "Political Party Name": "Democratic Action Party-Kenya",
+                "Abbreviation": "DAP-K",
+                "Abbreviation Enhanced": "DAP-K",
+                "Party Code Enhanced": "85"
+            },
+            {
+                "County Code": "37",
+                "County Name": "Kakamega",
+                "Candidate Surname": "Crispus",
+                "Candidate Other Names": "Kaira Rebuahi",
+                "Party Code": "Ind",
+                "Political Party Name": "Independent",
+                "Abbreviation": "IND",
+                "Abbreviation Enhanced": "IND_SEN37_01",
+                "Party Code Enhanced": "IND_SEN37_01"
+            },
+            {
+                "County Code": "37",
+                "County Name": "Kakamega",
+                "Candidate Surname": "Keya",
+                "Candidate Other Names": "Sellah Kadasi",
+                "Party Code": "33",
+                "Political Party Name": "Kenya African National Union",
+                "Abbreviation": "KANU",
+                "Abbreviation Enhanced": "KANU",
+                "Party Code Enhanced": "33"
+            },
+            {
+                "County Code": "37",
+                "County Name": "Kakamega",
+                "Candidate Surname": "Khalwale",
+                "Candidate Other Names": "Boni",
+                "Party Code": "15",
+                "Political Party Name": "United Democratic Alliance",
+                "Abbreviation": "UDA",
+                "Abbreviation Enhanced": "UDA",
+                "Party Code Enhanced": "15"
+            },
+            {
+                "County Code": "37",
+                "County Name": "Kakamega",
+                "Candidate Surname": "Makamu",
+                "Candidate Other Names": "Brian Lishenga",
+                "Party Code": "21",
+                "Political Party Name": "Orange Democratic Movement",
+                "Abbreviation": "ODM",
+                "Abbreviation Enhanced": "ODM",
+                "Party Code Enhanced": "21"
+            },
+            {
+                "County Code": "37",
+                "County Name": "Kakamega",
+                "Candidate Surname": "Washiko",
+                "Candidate Other Names": "Sammy Oliver Aina",
+                "Party Code": "27",
+                "Political Party Name": "Jubilee Party",
+                "Abbreviation": "JP",
+                "Abbreviation Enhanced": "JP",
+                "Party Code Enhanced": "27"
+            }
+        ],
+        "38": [
+            {
+                "County Code": "38",
+                "County Name": "Vihiga",
+                "Candidate Surname": "Abwao",
+                "Candidate Other Names": "David",
+                "Party Code": "80",
+                "Political Party Name": "Usawa Kwa Wote Party",
+                "Abbreviation": "USAWA",
+                "Abbreviation Enhanced": "USAWA",
+                "Party Code Enhanced": "80"
+            },
+            {
+                "County Code": "38",
+                "County Name": "Vihiga",
+                "Candidate Surname": "Agufana",
+                "Candidate Other Names": "Alfayo Alfonze",
+                "Party Code": "37",
+                "Political Party Name": "National Agenda Party Of Kenya",
+                "Abbreviation": "NAPK",
+                "Abbreviation Enhanced": "NAPK",
+                "Party Code Enhanced": "37"
+            },
+            {
+                "County Code": "38",
+                "County Name": "Vihiga",
+                "Candidate Surname": "Amiani",
+                "Candidate Other Names": "Eunice Vihenda",
+                "Party Code": "12",
+                "Political Party Name": "Wiper Democratic Movement- Kenya",
+                "Abbreviation": "WDM",
+                "Abbreviation Enhanced": "WDM",
+                "Party Code Enhanced": "12"
+            },
+            {
+                "County Code": "38",
+                "County Name": "Vihiga",
+                "Candidate Surname": "Butiko",
+                "Candidate Other Names": "Enosi Kennedy",
+                "Party Code": "62",
+                "Political Party Name": "Amani National Congress",
+                "Abbreviation": "ANC",
+                "Abbreviation Enhanced": "ANC",
+                "Party Code Enhanced": "62"
+            },
+            {
+                "County Code": "38",
+                "County Name": "Vihiga",
+                "Candidate Surname": "Imbuki",
+                "Candidate Other Names": "O Kennedy",
+                "Party Code": "72",
+                "Political Party Name": "Movement For Democracy And Growth",
+                "Abbreviation": "MDG",
+                "Abbreviation Enhanced": "MDG",
+                "Party Code Enhanced": "72"
+            },
+            {
+                "County Code": "38",
+                "County Name": "Vihiga",
+                "Candidate Surname": "Kedogo",
+                "Candidate Other Names": "Jackson Swadi",
+                "Party Code": "15",
+                "Political Party Name": "United Democratic Alliance",
+                "Abbreviation": "UDA",
+                "Abbreviation Enhanced": "UDA",
+                "Party Code Enhanced": "15"
+            },
+            {
+                "County Code": "38",
+                "County Name": "Vihiga",
+                "Candidate Surname": "Kweya",
+                "Candidate Other Names": "Otundo Kennedy",
+                "Party Code": "3",
+                "Political Party Name": "The Labour Party Of Kenya",
+                "Abbreviation": "LPK",
+                "Abbreviation Enhanced": "LPK",
+                "Party Code Enhanced": "3"
+            },
+            {
+                "County Code": "38",
+                "County Name": "Vihiga",
+                "Candidate Surname": "Majani",
+                "Candidate Other Names": "Tyson",
+                "Party Code": "1",
+                "Political Party Name": "National Rainbow Coalition-Kenya",
+                "Abbreviation": "NARC-KENYA",
+                "Abbreviation Enhanced": "NARC-KENYA",
+                "Party Code Enhanced": "1"
+            },
+            {
+                "County Code": "38",
+                "County Name": "Vihiga",
+                "Candidate Surname": "Mbith",
+                "Candidate Other Names": "Sisco Mbindi",
+                "Party Code": "Ind",
+                "Political Party Name": "Independent",
+                "Abbreviation": "IND",
+                "Abbreviation Enhanced": "IND_SEN38_01",
+                "Party Code Enhanced": "IND_SEN38_01"
+            },
+            {
+                "County Code": "38",
+                "County Name": "Vihiga",
+                "Candidate Surname": "Ndeda",
+                "Candidate Other Names": "James Babira",
+                "Party Code": "25",
+                "Political Party Name": "Progressive Party Of Kenya",
+                "Abbreviation": "PPOK",
+                "Abbreviation Enhanced": "PPOK",
+                "Party Code Enhanced": "25"
+            },
+            {
+                "County Code": "38",
+                "County Name": "Vihiga",
+                "Candidate Surname": "Ongadi",
+                "Candidate Other Names": "Leonard",
+                "Party Code": "85",
+                "Political Party Name": "Democratic Action Party-Kenya",
+                "Abbreviation": "DAP-K",
+                "Abbreviation Enhanced": "DAP-K",
+                "Party Code Enhanced": "85"
+            },
+            {
+                "County Code": "38",
+                "County Name": "Vihiga",
+                "Candidate Surname": "Osotsi",
+                "Candidate Other Names": "Godfrey Atieno",
+                "Party Code": "21",
+                "Political Party Name": "Orange Democratic Movement",
+                "Abbreviation": "ODM",
+                "Abbreviation Enhanced": "ODM",
+                "Party Code Enhanced": "21"
+            },
+            {
+                "County Code": "38",
+                "County Name": "Vihiga",
+                "Candidate Surname": "Simekha",
+                "Candidate Other Names": "Joseph Mukuna",
+                "Party Code": "49",
+                "Political Party Name": "Federal Party Of Kenya",
+                "Abbreviation": "FPK",
+                "Abbreviation Enhanced": "FPK",
+                "Party Code Enhanced": "49"
+            },
+            {
+                "County Code": "38",
+                "County Name": "Vihiga",
+                "Candidate Surname": "Sultan",
+                "Candidate Other Names": "Michael Madaga",
+                "Party Code": "84",
+                "Political Party Name": "National Reconstruction Alliance",
+                "Abbreviation": "NRA",
+                "Abbreviation Enhanced": "NRA",
+                "Party Code Enhanced": "84"
+            }
+        ],
+        "39": [
+            {
+                "County Code": "39",
+                "County Name": "Bungoma",
+                "Candidate Surname": "Barasa",
+                "Candidate Other Names": "Elias S",
+                "Party Code": "38",
+                "Political Party Name": "Peoples Empowerment Party",
+                "Abbreviation": "PEP",
+                "Abbreviation Enhanced": "PEP",
+                "Party Code Enhanced": "38"
+            },
+            {
+                "County Code": "39",
+                "County Name": "Bungoma",
+                "Candidate Surname": "Kasili",
+                "Candidate Other Names": "Herman Kisekeli",
+                "Party Code": "64",
+                "Political Party Name": "United Democratic Party",
+                "Abbreviation": "UDP",
+                "Abbreviation Enhanced": "UDP",
+                "Party Code Enhanced": "64"
+            },
+            {
+                "County Code": "39",
+                "County Name": "Bungoma",
+                "Candidate Surname": "Machacha",
+                "Candidate Other Names": "Jacob Kasimwaka",
+                "Party Code": "49",
+                "Political Party Name": "Federal Party Of Kenya",
+                "Abbreviation": "FPK",
+                "Abbreviation Enhanced": "FPK",
+                "Party Code Enhanced": "49"
+            },
+            {
+                "County Code": "39",
+                "County Name": "Bungoma",
+                "Candidate Surname": "Ngome",
+                "Candidate Other Names": "Charles Kibanani",
+                "Party Code": "85",
+                "Political Party Name": "Democratic Action Party-Kenya",
+                "Abbreviation": "DAP-K",
+                "Abbreviation Enhanced": "DAP-K",
+                "Party Code Enhanced": "85"
+            },
+            {
+                "County Code": "39",
+                "County Name": "Bungoma",
+                "Candidate Surname": "Sifuna",
+                "Candidate Other Names": "Lawrence Simiyu",
+                "Party Code": "21",
+                "Political Party Name": "Orange Democratic Movement",
+                "Abbreviation": "ODM",
+                "Abbreviation Enhanced": "ODM",
+                "Party Code Enhanced": "21"
+            },
+            {
+                "County Code": "39",
+                "County Name": "Bungoma",
+                "Candidate Surname": "Wetangula",
+                "Candidate Other Names": "Moses Masika",
+                "Party Code": "23",
+                "Political Party Name": "Forum For Restoration Of Democracy-Kenya",
+                "Abbreviation": "FORD-KENYA",
+                "Abbreviation Enhanced": "FORD-KENYA",
+                "Party Code Enhanced": "23"
+            }
+        ],
+        "40": [
+            {
+                "County Code": "40",
+                "County Name": "Busia",
+                "Candidate Surname": "Amoo",
+                "Candidate Other Names": "Moses Oude",
+                "Party Code": "15",
+                "Political Party Name": "United Democratic Alliance",
+                "Abbreviation": "UDA",
+                "Abbreviation Enhanced": "UDA",
+                "Party Code Enhanced": "15"
+            },
+            {
+                "County Code": "40",
+                "County Name": "Busia",
+                "Candidate Surname": "Emoru",
+                "Candidate Other Names": "Moses Willingtone Ingwali",
+                "Party Code": "Ind",
+                "Political Party Name": "Independent",
+                "Abbreviation": "IND",
+                "Abbreviation Enhanced": "IND_SEN40_01",
+                "Party Code Enhanced": "IND_SEN40_01"
+            },
+            {
+                "County Code": "40",
+                "County Name": "Busia",
+                "Candidate Surname": "Itela",
+                "Candidate Other Names": "Hilary Odera",
+                "Party Code": "21",
+                "Political Party Name": "Orange Democratic Movement",
+                "Abbreviation": "ODM",
+                "Abbreviation Enhanced": "ODM",
+                "Party Code Enhanced": "21"
+            },
+            {
+                "County Code": "40",
+                "County Name": "Busia",
+                "Candidate Surname": "Kuchio",
+                "Candidate Other Names": "Lawrence Ongoma",
+                "Party Code": "85",
+                "Political Party Name": "Democratic Action Party-Kenya",
+                "Abbreviation": "DAP-K",
+                "Abbreviation Enhanced": "DAP-K",
+                "Party Code Enhanced": "85"
+            },
+            {
+                "County Code": "40",
+                "County Name": "Busia",
+                "Candidate Surname": "Masinde",
+                "Candidate Other Names": "Isabella Anyona",
+                "Party Code": "27",
+                "Political Party Name": "Jubilee Party",
+                "Abbreviation": "JP",
+                "Abbreviation Enhanced": "JP",
+                "Party Code Enhanced": "27"
+            },
+            {
+                "County Code": "40",
+                "County Name": "Busia",
+                "Candidate Surname": "Okoiti",
+                "Candidate Other Names": "Andrew Omtatah",
+                "Party Code": "84",
+                "Political Party Name": "National Reconstruction Alliance",
+                "Abbreviation": "NRA",
+                "Abbreviation Enhanced": "NRA",
+                "Party Code Enhanced": "84"
+            },
+            {
+                "County Code": "40",
+                "County Name": "Busia",
+                "Candidate Surname": "Shiondo",
+                "Candidate Other Names": "Braxwell Wanjala",
+                "Party Code": "49",
+                "Political Party Name": "Federal Party Of Kenya",
+                "Abbreviation": "FPK",
+                "Abbreviation Enhanced": "FPK",
+                "Party Code Enhanced": "49"
+            },
+            {
+                "County Code": "40",
+                "County Name": "Busia",
+                "Candidate Surname": "Wako",
+                "Candidate Other Names": "Doris Sabina",
+                "Party Code": "3",
+                "Political Party Name": "The Labour Party Of Kenya",
+                "Abbreviation": "LPK",
+                "Abbreviation Enhanced": "LPK",
+                "Party Code Enhanced": "3"
+            }
+        ],
+        "41": [
+            {
+                "County Code": "41",
+                "County Name": "Siaya",
+                "Candidate Surname": "Oginga",
+                "Candidate Other Names": "Dr Oburu",
+                "Party Code": "21",
+                "Political Party Name": "Orange Democratic Movement",
+                "Abbreviation": "ODM",
+                "Abbreviation Enhanced": "ODM",
+                "Party Code Enhanced": "21"
+            },
+            {
+                "County Code": "41",
+                "County Name": "Siaya",
+                "Candidate Surname": "Okinda",
+                "Candidate Other Names": "Julius Okongo",
+                "Party Code": "Ind",
+                "Political Party Name": "Independent",
+                "Abbreviation": "IND",
+                "Abbreviation Enhanced": "IND_SEN41_01",
+                "Party Code Enhanced": "IND_SEN41_01"
+            },
+            {
+                "County Code": "41",
+                "County Name": "Siaya",
+                "Candidate Surname": "Onyango",
+                "Candidate Other Names": "Oscar Omondi",
+                "Party Code": "85",
+                "Political Party Name": "Democratic Action Party-Kenya",
+                "Abbreviation": "DAP-K",
+                "Abbreviation Enhanced": "DAP-K",
+                "Party Code Enhanced": "85"
+            },
+            {
+                "County Code": "41",
+                "County Name": "Siaya",
+                "Candidate Surname": "Otieno",
+                "Candidate Other Names": "Ismael Atudo",
+                "Party Code": "Ind",
+                "Political Party Name": "Independent",
+                "Abbreviation": "IND",
+                "Abbreviation Enhanced": "IND_SEN41_02",
+                "Party Code Enhanced": "IND_SEN41_02"
+            },
+            {
+                "County Code": "41",
+                "County Name": "Siaya",
+                "Candidate Surname": "Owiti",
+                "Candidate Other Names": "James Wamban",
+                "Party Code": "72",
+                "Political Party Name": "Movement For Democracy And Growth",
+                "Abbreviation": "MDG",
+                "Abbreviation Enhanced": "MDG",
+                "Party Code Enhanced": "72"
+            },
+            {
+                "County Code": "41",
+                "County Name": "Siaya",
+                "Candidate Surname": "Yogo",
+                "Candidate Other Names": "Tony Yogo",
+                "Party Code": "Ind",
+                "Political Party Name": "Independent",
+                "Abbreviation": "IND",
+                "Abbreviation Enhanced": "IND_SEN41_03",
+                "Party Code Enhanced": "IND_SEN41_03"
+            }
+        ],
+        "42": [
+            {
+                "County Code": "42",
+                "County Name": "Kisumu",
+                "Candidate Surname": "Enos",
+                "Candidate Other Names": "Gundi Okolo",
+                "Party Code": "27",
+                "Political Party Name": "Jubilee Party",
+                "Abbreviation": "JP",
+                "Abbreviation Enhanced": "JP",
+                "Party Code Enhanced": "27"
+            },
+            {
+                "County Code": "42",
+                "County Name": "Kisumu",
+                "Candidate Surname": "Odhiambo",
+                "Candidate Other Names": "Ojienda Tom",
+                "Party Code": "21",
+                "Political Party Name": "Orange Democratic Movement",
+                "Abbreviation": "ODM",
+                "Abbreviation Enhanced": "ODM",
+                "Party Code Enhanced": "21"
+            }
+        ],
+        "43": [
+            {
+                "County Code": "43",
+                "County Name": "Homa Bay",
+                "Candidate Surname": "Aloo",
+                "Candidate Other Names": "Jack Onyango",
+                "Party Code": "29",
+                "Political Party Name": "National Rainbow Coalition",
+                "Abbreviation": "NARC",
+                "Abbreviation Enhanced": "NARC",
+                "Party Code Enhanced": "29"
+            },
+            {
+                "County Code": "43",
+                "County Name": "Homa Bay",
+                "Candidate Surname": "Kajwang",
+                "Candidate Other Names": "Moses Otieno",
+                "Party Code": "21",
+                "Political Party Name": "Orange Democratic Movement",
+                "Abbreviation": "ODM",
+                "Abbreviation Enhanced": "ODM",
+                "Party Code Enhanced": "21"
+            },
+            {
+                "County Code": "43",
+                "County Name": "Homa Bay",
+                "Candidate Surname": "Ojanga",
+                "Candidate Other Names": "Thomas Ochieng",
+                "Party Code": "33",
+                "Political Party Name": "Kenya African National Union",
+                "Abbreviation": "KANU",
+                "Abbreviation Enhanced": "KANU",
+                "Party Code Enhanced": "33"
+            },
+            {
+                "County Code": "43",
+                "County Name": "Homa Bay",
+                "Candidate Surname": "Otieno",
+                "Candidate Other Names": "Everlyn Atieno",
+                "Party Code": "85",
+                "Political Party Name": "Democratic Action Party-Kenya",
+                "Abbreviation": "DAP-K",
+                "Abbreviation Enhanced": "DAP-K",
+                "Party Code Enhanced": "85"
+            },
+            {
+                "County Code": "43",
+                "County Name": "Homa Bay",
+                "Candidate Surname": "Oyugi",
+                "Candidate Other Names": "Kenneth Kambona",
+                "Party Code": "Ind",
+                "Political Party Name": "Independent",
+                "Abbreviation": "IND",
+                "Abbreviation Enhanced": "IND_SEN43_01",
+                "Party Code Enhanced": "IND_SEN43_01"
+            },
+            {
+                "County Code": "43",
+                "County Name": "Homa Bay",
+                "Candidate Surname": "Wasonga",
+                "Candidate Other Names": "Beatrice Achieng'",
+                "Party Code": "12",
+                "Political Party Name": "Wiper Democratic Movement- Kenya",
+                "Abbreviation": "WDM",
+                "Abbreviation Enhanced": "WDM",
+                "Party Code Enhanced": "12"
+            }
+        ],
+        "44": [
+            {
+                "County Code": "44",
+                "County Name": "Migori",
+                "Candidate Surname": "Christopher",
+                "Candidate Other Names": "Sophia Rocklynne Dhibirah",
+                "Party Code": "27",
+                "Political Party Name": "Jubilee Party",
+                "Abbreviation": "JP",
+                "Abbreviation Enhanced": "JP",
+                "Party Code Enhanced": "27"
+            },
+            {
+                "County Code": "44",
+                "County Name": "Migori",
+                "Candidate Surname": "Mijungu",
+                "Candidate Other Names": "Billy Graham Okumu",
+                "Party Code": "Ind",
+                "Political Party Name": "Independent",
+                "Abbreviation": "IND",
+                "Abbreviation Enhanced": "IND_SEN44_01",
+                "Party Code Enhanced": "IND_SEN44_01"
+            },
+            {
+                "County Code": "44",
+                "County Name": "Migori",
+                "Candidate Surname": "Oketch",
+                "Candidate Other Names": "Eddy Gicheru",
+                "Party Code": "21",
+                "Political Party Name": "Orange Democratic Movement",
+                "Abbreviation": "ODM",
+                "Abbreviation Enhanced": "ODM",
+                "Party Code Enhanced": "21"
+            }
+        ],
+        "45": [
+            {
+                "County Code": "45",
+                "County Name": "Kisii",
+                "Candidate Surname": "Atemba",
+                "Candidate Other Names": "Richard Minyega",
+                "Party Code": "13",
+                "Political Party Name": "Democratic Party Of Kenya",
+                "Abbreviation": "DP",
+                "Abbreviation Enhanced": "DP",
+                "Party Code Enhanced": "13"
+            },
+            {
+                "County Code": "45",
+                "County Name": "Kisii",
+                "Candidate Surname": "Maangi",
+                "Candidate Other Names": "Joash Arthur Gongera",
+                "Party Code": "15",
+                "Political Party Name": "United Democratic Alliance",
+                "Abbreviation": "UDA",
+                "Abbreviation Enhanced": "UDA",
+                "Party Code Enhanced": "15"
+            },
+            {
+                "County Code": "45",
+                "County Name": "Kisii",
+                "Candidate Surname": "Magara",
+                "Candidate Other Names": "James Omingo",
+                "Party Code": "27",
+                "Political Party Name": "Jubilee Party",
+                "Abbreviation": "JP",
+                "Abbreviation Enhanced": "JP",
+                "Party Code Enhanced": "27"
+            },
+            {
+                "County Code": "45",
+                "County Name": "Kisii",
+                "Candidate Surname": "Manyinsa",
+                "Candidate Other Names": "Vincent Ng'wono",
+                "Party Code": "12",
+                "Political Party Name": "Wiper Democratic Movement- Kenya",
+                "Abbreviation": "WDM",
+                "Abbreviation Enhanced": "WDM",
+                "Party Code Enhanced": "12"
+            },
+            {
+                "County Code": "45",
+                "County Name": "Kisii",
+                "Candidate Surname": "Nyangau",
+                "Candidate Other Names": "Evans Nyakundi",
+                "Party Code": "85",
+                "Political Party Name": "Democratic Action Party-Kenya",
+                "Abbreviation": "DAP-K",
+                "Abbreviation Enhanced": "DAP-K",
+                "Party Code Enhanced": "85"
+            },
+            {
+                "County Code": "45",
+                "County Name": "Kisii",
+                "Candidate Surname": "Oigara",
+                "Candidate Other Names": "Credius Nyamwange",
+                "Party Code": "62",
+                "Political Party Name": "Amani National Congress",
+                "Abbreviation": "ANC",
+                "Abbreviation Enhanced": "ANC",
+                "Party Code Enhanced": "62"
+            },
+            {
+                "County Code": "45",
+                "County Name": "Kisii",
+                "Candidate Surname": "Okemwa",
+                "Candidate Other Names": "Samuel Riose",
+                "Party Code": "83",
+                "Political Party Name": "National Ordinary Peoples Empowerment Union",
+                "Abbreviation": "NOPEU",
+                "Abbreviation Enhanced": "NOPEU",
+                "Party Code Enhanced": "83"
+            },
+            {
+                "County Code": "45",
+                "County Name": "Kisii",
+                "Candidate Surname": "Omanga",
+                "Candidate Other Names": "John Kennedy",
+                "Party Code": "33",
+                "Political Party Name": "Kenya African National Union",
+                "Abbreviation": "KANU",
+                "Abbreviation Enhanced": "KANU",
+                "Party Code Enhanced": "33"
+            },
+            {
+                "County Code": "45",
+                "County Name": "Kisii",
+                "Candidate Surname": "Onyonka",
+                "Candidate Other Names": "Richard Momoima",
+                "Party Code": "21",
+                "Political Party Name": "Orange Democratic Movement",
+                "Abbreviation": "ODM",
+                "Abbreviation Enhanced": "ODM",
+                "Party Code Enhanced": "21"
+            }
+        ],
+        "46": [
+            {
+                "County Code": "46",
+                "County Name": "Nyamira",
+                "Candidate Surname": "Machoka",
+                "Candidate Other Names": "Alvin Mokaya",
+                "Party Code": "46",
+                "Political Party Name": "United Party Of Independent Alliance",
+                "Abbreviation": "UPIA",
+                "Abbreviation Enhanced": "UPIA",
+                "Party Code Enhanced": "46"
+            },
+            {
+                "County Code": "46",
+                "County Name": "Nyamira",
+                "Candidate Surname": "Mecha",
+                "Candidate Other Names": "Jared Sagwe",
+                "Party Code": "12",
+                "Political Party Name": "Wiper Democratic Movement- Kenya",
+                "Abbreviation": "WDM",
+                "Abbreviation Enhanced": "WDM",
+                "Party Code Enhanced": "12"
+            },
+            {
+                "County Code": "46",
+                "County Name": "Nyamira",
+                "Candidate Surname": "Mochenwa",
+                "Candidate Other Names": "Adams Nyaribo",
+                "Party Code": "13",
+                "Political Party Name": "Democratic Party Of Kenya",
+                "Abbreviation": "DP",
+                "Abbreviation Enhanced": "DP",
+                "Party Code Enhanced": "13"
+            },
+            {
+                "County Code": "46",
+                "County Name": "Nyamira",
+                "Candidate Surname": "Mogeni",
+                "Candidate Other Names": "Erick Okongo",
+                "Party Code": "21",
+                "Political Party Name": "Orange Democratic Movement",
+                "Abbreviation": "ODM",
+                "Abbreviation Enhanced": "ODM",
+                "Party Code Enhanced": "21"
+            },
+            {
+                "County Code": "46",
+                "County Name": "Nyamira",
+                "Candidate Surname": "Mokaya",
+                "Candidate Other Names": "Christopher Alvin",
+                "Party Code": "80",
+                "Political Party Name": "Usawa Kwa Wote Party",
+                "Abbreviation": "USAWA",
+                "Abbreviation Enhanced": "USAWA",
+                "Party Code Enhanced": "80"
+            },
+            {
+                "County Code": "46",
+                "County Name": "Nyamira",
+                "Candidate Surname": "Mose",
+                "Candidate Other Names": "Nyambega",
+                "Party Code": "15",
+                "Political Party Name": "United Democratic Alliance",
+                "Abbreviation": "UDA",
+                "Abbreviation Enhanced": "UDA",
+                "Party Code Enhanced": "15"
+            },
+            {
+                "County Code": "46",
+                "County Name": "Nyamira",
+                "Candidate Surname": "Ogeto",
+                "Candidate Other Names": "Richard Oseko",
+                "Party Code": "25",
+                "Political Party Name": "Progressive Party Of Kenya",
+                "Abbreviation": "PPOK",
+                "Abbreviation Enhanced": "PPOK",
+                "Party Code Enhanced": "25"
+            },
+            {
+                "County Code": "46",
+                "County Name": "Nyamira",
+                "Candidate Surname": "Okongo",
+                "Candidate Other Names": "Kennedy Mongare",
+                "Party Code": "23",
+                "Political Party Name": "Forum For Restoration Of Democracy-Kenya",
+                "Abbreviation": "FORD-KENYA",
+                "Abbreviation Enhanced": "FORD-KENYA",
+                "Party Code Enhanced": "23"
+            },
+            {
+                "County Code": "46",
+                "County Name": "Nyamira",
+                "Candidate Surname": "Onyancha",
+                "Candidate Other Names": "James Boera",
+                "Party Code": "85",
+                "Political Party Name": "Democratic Action Party-Kenya",
+                "Abbreviation": "DAP-K",
+                "Abbreviation Enhanced": "DAP-K",
+                "Party Code Enhanced": "85"
+            }
+        ],
+        "47": [
+            {
+                "County Code": "47",
+                "County Name": "Nairobi City",
+                "Candidate Surname": "Angira",
+                "Candidate Other Names": "Silas Brilliance Antony Owiti",
+                "Party Code": "44",
+                "Political Party Name": "Party Of Democratic Unity",
+                "Abbreviation": "PDU",
+                "Abbreviation Enhanced": "PDU",
+                "Party Code Enhanced": "44"
+            },
+            {
+                "County Code": "47",
+                "County Name": "Nairobi City",
+                "Candidate Surname": "Gichuru",
+                "Candidate Other Names": "David Mwangi",
+                "Party Code": "34",
+                "Political Party Name": "Safina",
+                "Abbreviation": "SAFINA",
+                "Abbreviation Enhanced": "SAFINA",
+                "Party Code Enhanced": "34"
+            },
+            {
+                "County Code": "47",
+                "County Name": "Nairobi City",
+                "Candidate Surname": "Jamaa",
+                "Candidate Other Names": "Abdikadir Ahmed",
+                "Party Code": "80",
+                "Political Party Name": "Usawa Kwa Wote Party",
+                "Abbreviation": "USAWA",
+                "Abbreviation Enhanced": "USAWA",
+                "Party Code Enhanced": "80"
+            },
+            {
+                "County Code": "47",
+                "County Name": "Nairobi City",
+                "Candidate Surname": "Kabera",
+                "Candidate Other Names": "William Wahome",
+                "Party Code": "13",
+                "Political Party Name": "Democratic Party Of Kenya",
+                "Abbreviation": "DP",
+                "Abbreviation Enhanced": "DP",
+                "Party Code Enhanced": "13"
+            },
+            {
+                "County Code": "47",
+                "County Name": "Nairobi City",
+                "Candidate Surname": "Kabogo",
+                "Candidate Other Names": "Julie Wanjiru",
+                "Party Code": "87",
+                "Political Party Name": "Chama Cha Kazi",
+                "Abbreviation": "KAZI",
+                "Abbreviation Enhanced": "KAZI",
+                "Party Code Enhanced": "87"
+            },
+            {
+                "County Code": "47",
+                "County Name": "Nairobi City",
+                "Candidate Surname": "Kamau",
+                "Candidate Other Names": "Jacintah Wambui",
+                "Party Code": "32",
+                "Political Party Name": "Communist Party Of Kenya",
+                "Abbreviation": "CPK",
+                "Abbreviation Enhanced": "CPK",
+                "Party Code Enhanced": "32"
+            },
+            {
+                "County Code": "47",
+                "County Name": "Nairobi City",
+                "Candidate Surname": "Kinyua",
+                "Candidate Other Names": "Victoria Wanjiru",
+                "Party Code": "82",
+                "Political Party Name": "The Service Party",
+                "Abbreviation": "TSP",
+                "Abbreviation Enhanced": "TSP",
+                "Party Code Enhanced": "82"
+            },
+            {
+                "County Code": "47",
+                "County Name": "Nairobi City",
+                "Candidate Surname": "Makau",
+                "Candidate Other Names": "Bernard",
+                "Party Code": "Ind",
+                "Political Party Name": "Independent",
+                "Abbreviation": "IND",
+                "Abbreviation Enhanced": "IND_SEN47_01",
+                "Party Code Enhanced": "IND_SEN47_01"
+            },
+            {
+                "County Code": "47",
+                "County Name": "Nairobi City",
+                "Candidate Surname": "Misoka",
+                "Candidate Other Names": "Justine Nyangwono",
+                "Party Code": "83",
+                "Political Party Name": "National Ordinary Peoples Empowerment Union",
+                "Abbreviation": "NOPEU",
+                "Abbreviation Enhanced": "NOPEU",
+                "Party Code Enhanced": "83"
+            },
+            {
+                "County Code": "47",
+                "County Name": "Nairobi City",
+                "Candidate Surname": "Mukolwe",
+                "Candidate Other Names": "Pamela Ateka",
+                "Party Code": "85",
+                "Political Party Name": "Democratic Action Party-Kenya",
+                "Abbreviation": "DAP-K",
+                "Abbreviation Enhanced": "DAP-K",
+                "Party Code Enhanced": "85"
+            },
+            {
+                "County Code": "47",
+                "County Name": "Nairobi City",
+                "Candidate Surname": "Ochoti",
+                "Candidate Other Names": "John Onsomu",
+                "Party Code": "33",
+                "Political Party Name": "Kenya African National Union",
+                "Abbreviation": "KANU",
+                "Abbreviation Enhanced": "KANU",
+                "Party Code Enhanced": "33"
+            },
+            {
+                "County Code": "47",
+                "County Name": "Nairobi City",
+                "Candidate Surname": "Ochweri",
+                "Candidate Other Names": "Daniel Ogwoka",
+                "Party Code": "1",
+                "Political Party Name": "National Rainbow Coalition-Kenya",
+                "Abbreviation": "NARC-KENYA",
+                "Abbreviation Enhanced": "NARC-KENYA",
+                "Party Code Enhanced": "1"
+            },
+            {
+                "County Code": "47",
+                "County Name": "Nairobi City",
+                "Candidate Surname": "Sifuna",
+                "Candidate Other Names": "Edwine Watenya",
+                "Party Code": "21",
+                "Political Party Name": "Orange Democratic Movement",
+                "Abbreviation": "ODM",
+                "Abbreviation Enhanced": "ODM",
+                "Party Code Enhanced": "21"
+            },
+            {
+                "County Code": "47",
+                "County Name": "Nairobi City",
+                "Candidate Surname": "Wanjiru",
+                "Candidate Other Names": "Margaret",
+                "Party Code": "15",
+                "Political Party Name": "United Democratic Alliance",
+                "Abbreviation": "UDA",
+                "Abbreviation Enhanced": "UDA",
+                "Party Code Enhanced": "15"
+            }
+        ]
+    }
+}

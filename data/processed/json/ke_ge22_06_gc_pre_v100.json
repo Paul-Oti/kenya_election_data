@@ -1,0 +1,48 @@
+{
+    "presidency": [
+        {
+            "Candidate Surname": "Odinga",
+            "Candidate Other Names": "Raila",
+            "Running Mate Surname": "Karua",
+            "Running Mate Other Names": "Martha Wangari",
+            "Party Code": "101",
+            "Political Party Name": "Azimio La Umoja One Kenya Coalition Party",
+            "Abbreviation": "AZIMIO",
+            "Abbreviation Enhanced": "AZIMIO",
+            "Party Code Enhanced": "101"
+        },
+        {
+            "Candidate Surname": "Ruto",
+            "Candidate Other Names": "William Samoei",
+            "Running Mate Surname": "Gachagua",
+            "Running Mate Other Names": "Rigathi",
+            "Party Code": "15",
+            "Political Party Name": "United Democratic Alliance",
+            "Abbreviation": "UDA",
+            "Abbreviation Enhanced": "UDA",
+            "Party Code Enhanced": "15"
+        },
+        {
+            "Candidate Surname": "Waihiga",
+            "Candidate Other Names": "David Mwaure",
+            "Running Mate Surname": "Mucheru",
+            "Running Mate Other Names": "Ruth Wambui",
+            "Party Code": "17",
+            "Political Party Name": "Agano Party",
+            "Abbreviation": "AGANO",
+            "Abbreviation Enhanced": "AGANO",
+            "Party Code Enhanced": "17"
+        },
+        {
+            "Candidate Surname": "Wajackoyah",
+            "Candidate Other Names": "George Luchiri",
+            "Running Mate Surname": "Wamae",
+            "Running Mate Other Names": "Justina Wangui",
+            "Party Code": "59",
+            "Political Party Name": "Roots Party Of Kenya",
+            "Abbreviation": "RPK",
+            "Abbreviation Enhanced": "RPK",
+            "Party Code Enhanced": "59"
+        }
+    ]
+}
