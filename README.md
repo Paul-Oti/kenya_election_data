@@ -14,8 +14,8 @@ The data in the 'data' folder are organized into these subfolders:
 - **Processed**: Processed datasets in xlsx, json and csv formats, and in their respective subfolders. 
 - **Raw**: Files of unprocessed or original datasets comprise this folder. 
 
-## Terms of Use
-Provision of content in this repo is 'as-is' with no warranty implications/application/guarantees. Using this repo's content is subject to these conditions:
+## Conditions/Terms of Use
+Provision of content in this repo is 'as-is' with no warranty implications/application/guarantees. Using this repo's content is subject to these conditions/terms:
 
 - The repo owner(s)/author(s) is not responsible for any liabilities arising from the use of this repo's data and/or derivatives.
 - The repo owner(s)/author(s) can only correct/explain any errors whose cause is from the generation of the repo's data/content but none of source errors.
