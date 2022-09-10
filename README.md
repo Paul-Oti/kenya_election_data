@@ -15,7 +15,7 @@ The data in the 'data' folder are organized into these subfolders:
 - **Raw**: Files of unprocessed or original datasets comprise this folder. 
 
 ## Terms of Use
-The content in this repo is provided 'as is' with no warranty implications/application/guarantees. Using this repo's content is subject to these conditions:
+Provision of content in this repo is 'as-is' with no warranty implications/application/guarantees. Using this repo's content is subject to these conditions:
 
 - The repo owner(s)/author(s) is not responsible for any liabilities arising from the use of this repo's data and/or derivatives.
 - The repo owner(s)/author(s) can only correct/explain any errors whose cause is from the generation of the repo's data/content but none of source errors.
